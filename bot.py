@@ -125,52 +125,51 @@ def get_card_image_bytes(filename: str, is_reversed: bool = False) -> bytes:
 
 
 def get_main_keyboard() -> InlineKeyboardMarkup:
-    """Generates mystical main menu keyboard."""
+    """Generates casual & friendly main menu keyboard."""
     keyboard = [
         [
-            InlineKeyboardButton("🔮 Buka Tabir Takdir (3 Kartu)", callback_data="spread_3")
+            InlineKeyboardButton("🔮 Cek 3 Kartu (Past, Now, Future)", callback_data="spread_3")
         ],
         [
-            InlineKeyboardButton("🌙 Bisikan Kartu Harian", callback_data="daily_card")
+            InlineKeyboardButton("✨ Kartu Harian Kamu (1x/hari)", callback_data="daily_card")
         ]
     ]
     return InlineKeyboardMarkup(keyboard)
 
 
 def get_reading_keyboard() -> InlineKeyboardMarkup:
-    """Keyboard shown after reading - returns to altar."""
+    """Keyboard shown after reading - returns to main menu."""
     keyboard = [
         [
-            InlineKeyboardButton("🏠 Kembali ke Altar", callback_data="main_menu")
+            InlineKeyboardButton("🏠 Balik ke Menu Utama", callback_data="main_menu")
         ]
     ]
     return InlineKeyboardMarkup(keyboard)
 
 
 def get_daily_keyboard() -> InlineKeyboardMarkup:
-    """Keyboard shown after daily card - strictly altar return only."""
+    """Keyboard shown after daily card - returns to main menu."""
     keyboard = [
         [
-            InlineKeyboardButton("🏠 Kembali ke Altar", callback_data="main_menu")
+            InlineKeyboardButton("🏠 Balik ke Menu Utama", callback_data="main_menu")
         ]
     ]
     return InlineKeyboardMarkup(keyboard)
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Greets the seeker with an atmospheric mystical aura."""
+    """Greets the user with a friendly, casual, and supportive vibe."""
     user = update.effective_user
-    user_name = user.first_name if user else "Pengelana Jiwa"
+    user_name = user.first_name if user else "Bestie"
 
     welcome_text = (
-        f"🕯️ *Salam dari Balik Tabir Rahasia, {user_name}...*\n\n"
-        "Selamat datang di *Sanctum Tarot Takdir*.\n"
-        "Asap dupa kemenyan telah membumbung tinggi, dan tirai antara alam nyata "
-        "serta ruang batinmu kini perlahan tersingkap.\n\n"
-        "Tujuh puluh delapan kartu purba telah dibersihkan di bawah sinar bulan purnama, "
-        "menanti niat dan getaran batinmu.\n\n"
-        "✨ *Apakah yang ingin kau tanyakan kepada semesta hari ini?*\n"
-        "Pusatkan kesadaranmu, hembuskan keraguanmu, dan pilih jalanmu di bawah ini."
+        f"✨ *Halo {user_name}! Welcome to Sanctum Tarot!* 🔮\n\n"
+        "Lagi overthinking, penasaran sama masa depan, atau butuh insight buat langkah hidupmu? "
+        "Santai aja, kamu ada di tempat yang tepat!\n\n"
+        "Di sini, kita bakal baca energi dan arah langkahmu lewat 78 kartu Tarot Rider-Waite "
+        "dengan gaya yang santai, positif, dan gampang banget dipahami. "
+        "Nggak perlu tegang atau pusing, anggap aja lagi ngobrol bareng teman curhatmu. 😉\n\n"
+        "👇 *Yuk, pilih mau cek apa hari ini:*"
     )
 
     if update.callback_query:
@@ -190,7 +189,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
 
 
 async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Draws 3 unique cards and presents the reading step by step."""
+    """Draws 3 unique cards and presents the reading step by step in casual style."""
     query = update.callback_query
     if query:
         await query.answer()
@@ -198,14 +197,13 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
     else:
         chat_id = update.message.chat_id
 
-    # Ritual initiation message
+    # Initiation message
     init_msg = await context.bot.send_message(
         chat_id=chat_id,
         text=(
-            "✨ *Ritual Pengocokan Kartu Dimulai...*\n\n"
-            "🌀 _Tutup matamu sejenak._\n"
-            "🌬️ _Tarik napas dalam, hembuskan perlahan._\n"
-            "🕯️ _Pusatkan pertanyaan dan getaran batinmu ke dalam keheningan..._"
+            "🃏 *Kartu lagi dikocok nih, bentar ya...* ✨\n\n"
+            "Tarik napas santai dulu, buang overthinking-nya... "
+            "Biar kartunya bisa ngasih sinyal & insight paling pas buat kamu! 🔮"
         ),
         parse_mode=constants.ParseMode.MARKDOWN
     )
@@ -218,18 +216,21 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
 
     positions = [
         {
-            "roman": "I",
-            "title": "MASA LALU (Akar Energi & Pelajaran Batin)",
+            "roman": "1",
+            "title": "1️⃣ KARTU 1 — MASA LALU",
+            "subtitle": "Apa yang Udah Lewat & Membentuk Kamu",
             "key": "past"
         },
         {
-            "roman": "II",
-            "title": "MASA KINI (Realitas & Ujian Saat Ini)",
+            "roman": "2",
+            "title": "2️⃣ KARTU 2 — MASA SEKARANG",
+            "subtitle": "Situasi & Kondisi Kamu Saat Ini",
             "key": "present"
         },
         {
-            "roman": "III",
-            "title": "MASA DEPAN (Arah Takdir & Konsekuensi)",
+            "roman": "3",
+            "title": "3️⃣ KARTU 3 — MASA DEPAN",
+            "subtitle": "Peluang & Arah Langkah ke Depan",
             "key": "future"
         }
     ]
@@ -239,24 +240,24 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
     for i, (card, pos) in enumerate(zip(drawn_cards, positions)):
         # 50% chance upright or reversed
         is_reversed = random.choice([True, False])
-        orientation_label = "⬇️ TERBALIK (Reversed)" if is_reversed else "⬆️ TEGAK (Upright)"
         state_data = card["reversed"] if is_reversed else card["upright"]
 
         keywords_str = ", ".join(state_data["keywords"])
         interpretation = state_data[pos["key"]]
 
         caption = (
-            f"🔮 *KARTU {pos['roman']} — {pos['title']}*\n"
+            f"🔮 *{pos['title']}*\n"
+            f"_{pos['subtitle']}_\n"
             f"━━━━━━━━━━━━━━━━━━━\n"
             f"🎴 *{card['name_id']}*\n"
-            f"✨ *Elemen/Domain:* _{card['element']}_\n"
+            f"🌈 *Vibes / Energi:* _{card['element']}_\n"
             f"🔑 *Kata Kunci:* _{keywords_str}_\n\n"
-            f"📖 *Makna Takdir:*\n{interpretation}\n\n"
-            f"🕯️ *Bisikan Gaib:*\n_{state_data['whisper']}_"
+            f"💡 *Artinya Buat Kamu:*\n{interpretation}\n\n"
+            f"💬 *Pesan Buat Kamu:*\n_{state_data['whisper']}_"
         )
 
         card_summaries.append({
-            "name": card["name_en"],
+            "name": card["name_id"].split(" (")[0],
             "pos": pos["title"],
             "whisper": state_data["whisper"]
         })
@@ -264,7 +265,7 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
         # Send chat action uploading photo
         await context.bot.send_chat_action(chat_id=chat_id, action=constants.ChatAction.UPLOAD_PHOTO)
 
-        # Get image bytes with rotation if reversed
+        # Get image bytes (always upright as per clean aesthetics)
         photo_bytes = get_card_image_bytes(card["image"], is_reversed)
 
         await context.bot.send_photo(
@@ -278,16 +279,17 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
 
     # Concluding synthesis message
     synthesis_text = (
-        "📜 *IKATAN TIGA BENANG TAKDIR (Sintesis Gaib)*\n"
+        "✨ *BENANG MERAH BACAAN KAMU (Takeaway)*\n"
         "━━━━━━━━━━━━━━━━━━━\n"
-        f"• *Akar (Masa Lalu):* `{card_summaries[0]['name']}`\n"
-        f"• *Titik Pijak (Masa Kini):* `{card_summaries[1]['name']}`\n"
-        f"• *Cakrawala (Masa Depan):* `{card_summaries[2]['name']}`\n\n"
-        "🌌 *Renungan Penutup:*\n"
-        "_Masa lalu telah menabur benihnya, dan masa kinimu adalah tanah tempat benih itu diuji. "
-        "Masa depan yang terpampang di hadapanmu bukanlah garis mati yang tak terelakkan, melainkan seruan agar "
-        "kamu bertindak dengan kesadaran penuh._\n\n"
-        "🕯️ *Dengarkan bisikan batinmu sebelum melangkah kembali ke riuh dunia.*"
+        f"🔙 *Masa Lalu:* `{card_summaries[0]['name']}`\n"
+        f"⚡ *Masa Sekarang:* `{card_summaries[1]['name']}`\n"
+        f"🚀 *Masa Depan:* `{card_summaries[2]['name']}`\n\n"
+        "💡 *Rangkuman Santai:*\n"
+        "_Semua yang udah lewat jadi pengalaman berharga yang bikin kamu makin kuat. "
+        "Kondisi kamu saat ini butuh fokus, kejernihan pikiran, dan tindakan nyata. "
+        "Dan ingat ya, masa depan itu bukan sesuatu yang kaku atau nakutin, "
+        "tapi peluang terbuka yang bisa kamu bentuk sendiri lewat pilihanmu hari ini!_\n\n"
+        "Tetap semangat, percaya sama intuisimu, and keep moving forward! 💪✨"
     )
 
     await context.bot.send_message(
@@ -299,7 +301,7 @@ async def perform_3_card_spread(update: Update, context: ContextTypes.DEFAULT_TY
 
 
 async def perform_daily_card(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Draws 1 card for daily meditation with strict 1-per-day limit."""
+    """Draws 1 card for daily inspiration with strict 1-per-day limit."""
     query = update.callback_query
     user = update.effective_user
     user_id = user.id if user else 0
@@ -313,11 +315,12 @@ async def perform_daily_card(update: Update, context: ContextTypes.DEFAULT_TYPE)
     # Check if user already pulled daily card today
     if has_drawn_today(user_id):
         already_drawn_text = (
-            "🌙 *Tabir Harian Telah Tertutup...*\n"
+            "⏰ *Eits, Kuota Kartu Harianmu Udah Kepake Hari Ini!* 😉\n"
             "━━━━━━━━━━━━━━━━━━━\n"
-            "Engkau telah mengambil satu helai bisikan takdir untuk hari ini.\n\n"
-            "🕯️ _Pusatkan batinmu dan resapilah energi kartu yang telah kau peroleh hari ini. "
-            "Altar harian baru akan terbuka kembali esok hari saat fajar menyingsing._"
+            "Kamu udah ambil 1 kartu harian buat hari ini ya.\n\n"
+            "Biar fokus dan nggak kebanyakan mikir, resapi dulu pesan positif dari kartu yang tadi. "
+            "Kartu harian baru bakal siap kamu ambil lagi besok pas ganti hari ya.\n\n"
+            "Have a great and productive day! ✨"
         )
         await context.bot.send_message(
             chat_id=chat_id,
@@ -336,14 +339,14 @@ async def perform_daily_card(update: Update, context: ContextTypes.DEFAULT_TYPE)
     keywords_str = ", ".join(state_data["keywords"])
 
     caption = (
-        f"🌙 *BISIKAN KARTU HARIAN (Daily Meditation)*\n"
+        f"✨ *KARTU HARIAN KAMU (Daily Vibes)*\n"
         f"━━━━━━━━━━━━━━━━━━━\n"
         f"🎴 *{card['name_id']}*\n"
-        f"✨ *Elemen:* _{card['element']}_\n"
-        f"🔑 *Energi Hari Ini:* _{keywords_str}_\n\n"
-        f"📖 *Pesan Hari Ini:*\n{state_data['overview']}\n\n"
-        f"🕯️ *Nasihat Gaib:*\n_{state_data['whisper']}_\n\n"
-        f"_Bawalah energi kartu ini dalam renungan hening sepanjang harimu._"
+        f"🌈 *Vibes Hari Ini:* _{card['element']}_\n"
+        f"🔑 *Kata Kunci:* _{keywords_str}_\n\n"
+        f"💡 *Insight Buat Kamu:*\n{state_data['overview']}\n\n"
+        f"💬 *Tips / Pesan Hari Ini:*\n_{state_data['whisper']}_\n\n"
+        f"_Jadikan pesan positif ini buat nemenin dan semangatin harimu ya!_ ✨"
     )
 
     photo_bytes = get_card_image_bytes(card["image"], is_reversed)
@@ -375,23 +378,17 @@ async def callback_router(update: Update, context: ContextTypes.DEFAULT_TYPE) ->
 
 
 async def handle_unwanted_input(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """If user types anything into chat, cleanly summon the Altar with interactive buttons."""
+    """If user types anything into chat, cleanly delete it and summon the main menu."""
     if update.message:
         try:
             await update.message.delete()
         except Exception:
             pass
         user = update.effective_user
-        user_name = user.first_name if user else "Pengelana Jiwa"
+        user_name = user.first_name if user else "Bestie"
         welcome_text = (
-            f"🕯️ *Salam dari Balik Tabir Rahasia, {user_name}...*\n\n"
-            "Selamat datang di *Sanctum Tarot Takdir*.\n"
-            "Asap dupa kemenyan telah membumbung tinggi, dan tirai antara alam nyata "
-            "serta ruang batinmu kini perlahan tersingkap.\n\n"
-            "Tujuh puluh delapan kartu purba telah dibersihkan di bawah sinar bulan purnama, "
-            "menanti niat dan getaran batinmu.\n\n"
-            "✨ *Apakah yang ingin kau tanyakan kepada semesta hari ini?*\n"
-            "Pusatkan kesadaranmu, hembuskan keraguanmu, dan pilih jalanmu di bawah ini."
+            f"✨ *Halo {user_name}!* Biar praktis dan nggak ribet, kita pakainya tombol interaktif di bawah ya. "
+            "Yuk pilih mau cek apa hari ini:"
         )
         await context.bot.send_message(
             chat_id=update.message.chat_id,
@@ -404,9 +401,9 @@ async def handle_unwanted_input(update: Update, context: ContextTypes.DEFAULT_TY
 async def post_init(application) -> None:
     """Registers commands in Telegram's Menu button so users always see the start menu."""
     await application.bot.set_my_commands([
-        BotCommand("start", "🔮 Masuk ke Altar Takdir"),
-        BotCommand("tarot", "🔮 Buka Tabir Takdir (3 Kartu)"),
-        BotCommand("daily", "🌙 Bisikan Kartu Harian")
+        BotCommand("start", "🏠 Buka Menu Utama"),
+        BotCommand("tarot", "🔮 Cek 3 Kartu (Past, Now, Future)"),
+        BotCommand("daily", "✨ Ambil Kartu Harian Kamu")
     ])
 
 
