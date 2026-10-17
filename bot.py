@@ -46,6 +46,30 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Lightweight health-check HTTP server for Cloud Hosting (e.g. Render.com Free Tier)
+port_env = os.getenv("PORT")
+if port_env:
+    import threading
+    from http.server import HTTPServer, BaseHTTPRequestHandler
+
+    class HealthCheckHandler(BaseHTTPRequestHandler):
+        def do_GET(self):
+            self.send_response(200)
+            self.send_header("Content-type", "text/plain")
+            self.end_headers()
+            self.wfile.write(b"Sanctum Tarot Bot is online and healthy.")
+
+        def log_message(self, format, *args):
+            pass
+
+    def start_health_check_server():
+        port = int(port_env)
+        server = HTTPServer(("0.0.0.0", port), HealthCheckHandler)
+        logger.info(f"Health-check server running on port {port}")
+        server.serve_forever()
+
+    threading.Thread(target=start_health_check_server, daemon=True).start()
+
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(BASE_DIR, "data", "tarot_cards.json")
