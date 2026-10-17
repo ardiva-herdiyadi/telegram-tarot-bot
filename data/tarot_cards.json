@@ -1,0 +1,2545 @@
+{
+  "total_cards": 78,
+  "cards": [
+    {
+      "id": "major_00",
+      "name_en": "The Fool",
+      "name_id": "The Fool (Sang Pengelana Tak Berarah)",
+      "image": "00-TheFool.png",
+      "arcana": "Major Arcana",
+      "element": "Udara / Roh Murni",
+      "upright": {
+        "keywords": [
+          "Awal Baru",
+          "Kepolosan",
+          "Lompatan Keyakinan",
+          "Spontanitas"
+        ],
+        "overview": "Jiwa murni yang melangkah ke tepi tebing takdir tanpa rasa takut. Awal dari lingkaran kosmik baru.",
+        "past": "Masa lalumu diwarnai keputusan berani atau kepolosan yang membawamu keluar dari zona nyaman.",
+        "present": "Saat ini semesta memintamu untuk melompat dengan iman murni. Singkirkan keraguan, rangkul ketidaktahuan.",
+        "future": "Babak baru yang segar dan tak terduga menanti di depan. Jalan terbuka bagi mereka yang berani melangkah.",
+        "whisper": "Jangan biarkan ketakutan akan jurang menahan sayap tak kasat matamu."
+      },
+      "reversed": {
+        "keywords": [
+          "Kecerobohan",
+          "Ketakutan Melangkah",
+          "Kelalaian",
+          "Kebodohan"
+        ],
+        "overview": "Langkah yang terhenti karena ketakutan buta, atau tindakan sembrono yang mengabaikan peringatan semesta.",
+        "past": "Kecerobohan atau keraguan berlebihan di masa lalu meninggalkan penyesalan yang belum tuntas.",
+        "present": "Waspadalah! Ada godaan untuk bertindak tanpa perhitungan matang, atau justru kamu terkungkung rasa takut.",
+        "future": "Jika mengabaikan pertanda, kamu berisiko terjatuh ke dalam lubang yang sebenarnya tampak jelas di depan mata.",
+        "whisper": "Ada garis tipis antara keberanian suci dan kebodohan yang membutakan."
+      }
+    },
+    {
+      "id": "major_01",
+      "name_en": "The Magician",
+      "name_id": "The Magician (Sang Alkemis Realitas)",
+      "image": "01-TheMagician.png",
+      "arcana": "Major Arcana",
+      "element": "Merkurius / Kehendak Sadar",
+      "upright": {
+        "keywords": [
+          "Manifestasi",
+          "Kekuatan Kehendak",
+          "Penciptaan",
+          "Keahlian"
+        ],
+        "overview": "Sebagaimana di atas, demikianlah di bawah. Semua elemen berada di mejamu untuk mewujudkan kehendak murni.",
+        "past": "Kamu telah mengumpulkan pengetahuan dan potensi yang menjadi fondasi kekuatanmu hari ini.",
+        "present": "Kekuatan manifestasimu berada di puncak tertinggi. Apapun yang kamu niatkan dengan fokus akan terwujud.",
+        "future": "Kemenangan tercipta dari tanganmu sendiri. Realitas baru akan terbentuk sesuai rancangan kehendakmu.",
+        "whisper": "Gunakan tongkat kehendakmu; alam semesta sedang mendengarkan perintah batinmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Manipulasi",
+          "Bakat Terpendam",
+          "Ilusi",
+          "Energi Terhalang"
+        ],
+        "overview": "Kekuatan yang disalahgunakan atau potensi dahsyat yang terperangkap dalam keraguan diri dan ilusi.",
+        "past": "Pernah ada tipu daya atau keraguan yang membuat potensimu terkubur sia-sia.",
+        "present": "Hati-hati terhadap kepalsuan—baik dari orang lain maupun ilusi yang kamu ciptakan sendiri untuk menghindar.",
+        "future": "Bakat yang tidak diasah dengan niat jujur akan berbalik menjadi bumerang kekecewaan.",
+        "whisper": "Sihir terhebat sekalipun akan rapuh jika dibangun di atas dasar kepalsuan."
+      }
+    },
+    {
+      "id": "major_02",
+      "name_en": "The High Priestess",
+      "name_id": "The High Priestess (Sang Penjaga Tabir Batin)",
+      "image": "02-TheHighPriestess.png",
+      "arcana": "Major Arcana",
+      "element": "Bulan / Intuisi Murni",
+      "upright": {
+        "keywords": [
+          "Intuisi",
+          "Misteri Batin",
+          "Pengetahuan Gaib",
+          "Keheningan"
+        ],
+        "overview": "Penjaga rahasia di antara dua pilar kegelapan dan cahaya. Jawabannya tidak berada di luar, melainkan di kedalaman batin.",
+        "past": "Sebuah firasat atau peristiwa hening di masa lalu telah menanamkan kepekaan spiritual dalam jiwamu.",
+        "present": "Dengarkan bisikan halus intuisimu. Jangan terburu-buru bertindak; biarkan tabir rahasia terbuka dengan sendirinya.",
+        "future": "Kebenaran tersembunyi akan tersingkap. Penglihatan batinmu akan menuntunmu melintasi kegelapan.",
+        "whisper": "Dalam keheningan terdalam, suara semesta terdengar paling lantang."
+      },
+      "reversed": {
+        "keywords": [
+          "Intuisi Terabaikan",
+          "Rahasia Terlarang",
+          "Kekeringan Jiwa",
+          "Kebingungan"
+        ],
+        "overview": "Koneksi batin yang terputus oleh kebisingan dunia luar. Menolak firasat hati demi logika yang menyesatkan.",
+        "past": "Kamu pernah mengabaikan peringatan suara hatimu dan menuai kebingungan setelahnya.",
+        "present": "Pikiranmu terlalu bising oleh opini luar. Kamu kehilangan kontak dengan kebijaksanaan sucimu sendiri.",
+        "future": "Rahasia atau dusta tersembunyi bisa terungkap secara mengejutkan jika kamu terus menutup mata batin.",
+        "whisper": "Ketika kamu menutup telinga dari suara jiwamu, kegelapan akan menjadi kabut yang pekat."
+      }
+    },
+    {
+      "id": "major_03",
+      "name_en": "The Empress",
+      "name_id": "The Empress (Sang Ibunda Kesuburan)",
+      "image": "03-TheEmpress.png",
+      "arcana": "Major Arcana",
+      "element": "Venus / Alam & Kelimpahan",
+      "upright": {
+        "keywords": [
+          "Kelimpahan",
+          "Kreativitas",
+          "Kasih Keibuan",
+          "Kelahiran Baru"
+        ],
+        "overview": "Rahim penciptaan yang memelihara kehidupan. Energi kehangatan, cinta alamiah, dan kemakmuran tanpa batas.",
+        "past": "Masa lalu penuh dengan benih cinta dan usaha tulus yang kini siap berbuah lebat.",
+        "present": "Waktunya merawat ide, hubungan, dan dirimu sendiri. Kelimpahan mengalir deras ke dalam hidupmu.",
+        "future": "Kelahiran hal baru yang membawa kedamaian, kemakmuran, dan kebahagiaan mendalam.",
+        "whisper": "Bumikan cintamu; tanah takdirmu sangat subur untuk menumbuhkan keajaiban."
+      },
+      "reversed": {
+        "keywords": [
+          "Kekeringan Kreatif",
+          "Ketergantungan",
+          "Kekosongan Batin",
+          "Pemberian Berlebih"
+        ],
+        "overview": "Energi kasih yang terkuras hingga kering. Mengabaikan perawatan diri atau terlalu mengikat sesuatu secara posesif.",
+        "past": "Pernah ada pengabaian emosional atau pengorbanan berlebihan yang mengeringkan sumur energimu.",
+        "present": "Kamu merasa lelah dan hampa. Berhentilah mengurus dunia jika kamu lupa menyirami jiwamu sendiri.",
+        "future": "Hubungan atau karya akan layu sebelum berkembang jika dibangun atas dasar kecemasan dan ketakutan kehilangan.",
+        "whisper": "Bahkan bumi yang paling subur membutuhkan waktu istirahat agar tidak menjadi tandus."
+      }
+    },
+    {
+      "id": "major_04",
+      "name_en": "The Emperor",
+      "name_id": "The Emperor (Sang Penguasa Tatanan)",
+      "image": "04-TheEmperor.png",
+      "arcana": "Major Arcana",
+      "element": "Aries / Struktur & Otoritas",
+      "upright": {
+        "keywords": [
+          "Otoritas",
+          "Disiplin",
+          "Struktur Kokoh",
+          "Kepemimpinan"
+        ],
+        "overview": "Tahta batu karang yang tak tergoyahkan. Kekuatan hukum, ketegasan nalar, dan perlindungan kedaulatan.",
+        "past": "Pondasi kedisiplinan dan prinsip kuat di masa lalu menjadi tiang penyangga yang menyelamatkanmu.",
+        "present": "Ambil kendali atas situasi ini. Tegakkan batasan, kuasai emosimu dengan logika dan ketegasan tanpa ragu.",
+        "future": "Kestabilan dan kekuasaan atas hidupmu sendiri akan tercapai dengan kepemimpinan yang berwibawa.",
+        "whisper": "Kekuatan sejati seorang raja bukan pada pedangnya, melainkan pada ketenangannya mengendalikan badai."
+      },
+      "reversed": {
+        "keywords": [
+          "Tirani",
+          "Kekakuan",
+          "Kehilangan Kendali",
+          "Kelemahan Otoritas"
+        ],
+        "overview": "Kekuasaan yang berubah menjadi tirani kaku, atau justru ketidakberdayaan dalam mempertahankan ketertiban.",
+        "past": "Aturan yang mencekik atau figur otoriter di masa lalu meninggalkan luka pemberontakan dalam batinmu.",
+        "present": "Kamu mungkin terlalu memaksakan kehendak, atau sebaliknya, situasi hidupmu sedang kacau tanpa disiplin.",
+        "future": "Kehancuran struktur menanti jika kamu memimpin dengan amarah atau ketakutan.",
+        "whisper": "Batu yang terlalu keras akan pecah saat dihantam ombak; kelenturan adalah bagian dari kedaulatan."
+      }
+    },
+    {
+      "id": "major_05",
+      "name_en": "The Hierophant",
+      "name_id": "The Hierophant (Sang Penjaga Ajaran Tradisi)",
+      "image": "05-TheHierophant.png",
+      "arcana": "Major Arcana",
+      "element": "Taurus / Kebijaksanaan Sakral",
+      "upright": {
+        "keywords": [
+          "Ajaran Leluhur",
+          "Tradisi",
+          "Koneksi Spiritual",
+          "Bimbingan Guru"
+        ],
+        "overview": "Kunci ganda penyatu surga dan bumi. Ajaran sakral, bimbingan moral, dan nilai-nilai luhur yang abadi.",
+        "past": "Pelajaran moral atau bimbingan dari guru masa lalu telah membentuk kompas etikamu.",
+        "present": "Cari nasihat dari mereka yang bijak atau kembali ke prinsip dasar yang telah teruji waktu.",
+        "future": "Inisiasi spiritual atau pengakuan resmi akan mengukuhkan status dan kedamaian batinmu.",
+        "whisper": "Kebenaran kuno tetap bersinar terang, bahkan ketika dunia luar gemar berubah wujud."
+      },
+      "reversed": {
+        "keywords": [
+          "Dogma Sempit",
+          "Pemberontakan Suci",
+          "Kepatuhan Buta",
+          "Krisis Kepercayaan"
+        ],
+        "overview": "Kungkungan dogma yang mematikan jiwa, atau dorongan suci untuk melepaskan diri dari belenggu tradisi lapuk.",
+        "past": "Kepatuhan buta pada aturan yang salah pernah membelenggu kebebasan jiwamu.",
+        "present": "Tanyakan pada dirimu: apakah tradisi ini masih menghidupkan jiwamu, atau hanya memenjarakannya?",
+        "future": "Jalanmu menuntutmu menjadi pencari kebenaran sejati, bukan sekadar pengikut buta kuil tua.",
+        "whisper": "Kuil teragung ada di dalam dadamu; jangan biarkan debu dogma menutupi altar sucimu."
+      }
+    },
+    {
+      "id": "major_06",
+      "name_en": "The Lovers",
+      "name_id": "The Lovers (Dua Sejoli & Persimpangan Jiwa)",
+      "image": "06-TheLovers.png",
+      "arcana": "Major Arcana",
+      "element": "Gemini / Ikatan & Pilihan Moral",
+      "upright": {
+        "keywords": [
+          "Penyatuan Jiwa",
+          "Pilihan Moral",
+          "Harmoni Murni",
+          "Komitmen Batin"
+        ],
+        "overview": "Di bawah sayap malaikat Raphael, dua jiwa menyatu dalam cermin ketulusan dan pilihan kompas moral.",
+        "past": "Keputusan berbasis cinta atau pertemuan takdir di masa lalu masih menggetarkan denyut nadimu hari ini.",
+        "present": "Persimpangan takdir hadir di hadapanmu. Pilihlah jalan yang selaras dengan nilai terdalam jiwamu, bukan nafsu sesaat.",
+        "future": "Penyatuan harmonis—baik dalam asmara, kemitraan, maupun kedamaian antara akal dan hatimu.",
+        "whisper": "Cinta sejati selalu menuntut keberanian untuk memilih dengan ketulusan mutlak."
+      },
+      "reversed": {
+        "keywords": [
+          "Ketidakharmonisan",
+          "Konflik Nilai",
+          "Pilihan Sesat",
+          "Dua Hati Retak"
+        ],
+        "overview": "Kekacauan batin akibat kompromi nilai-nilai suci, godaan sesaat, atau jurang pemisah dalam ikatan batin.",
+        "past": "Pilihan yang didorong oleh ilusi atau ketidakjujuran masa lalu kini menagih pertanggungjawaban emosional.",
+        "present": "Ada ketidakselarasan antara apa yang kamu inginkan dan apa yang sesungguhnya benar bagi jiwamu.",
+        "future": "Jika tidak diselesaikan dengan kejujuran pahit, perpecahan atau penyesalan batin tak terhindarkan.",
+        "whisper": "Ketika batinmu terbelah dua, setiap langkah akan terasa pincang."
+      }
+    },
+    {
+      "id": "major_07",
+      "name_en": "The Chariot",
+      "name_id": "The Chariot (Kereta Kemenangan & Tekad Baja)",
+      "image": "07-TheChariot.png",
+      "arcana": "Major Arcana",
+      "element": "Cancer / Kendali & Kemenangan",
+      "upright": {
+        "keywords": [
+          "Kemenangan",
+          "Tekad Kuat",
+          "Kendali Diri",
+          "Maju Tanpa Ragu"
+        ],
+        "overview": "Dua sfinks hitam dan putih ditarik oleh satu kehendak baja. Menaklukkan rintangan melalui fokus dan disiplin batin.",
+        "past": "Kemenangan masa lalu diraih berkat kegigihanmu menahan gejolak emosi dan godaan menyerah.",
+        "present": "Kencangkan tali kekang hidupmu. Rintangan besar ada di depan, namun tekadmu jauh lebih perkasa.",
+        "future": "Kemenangan gemilang di medan tempur kehidupan. Kamu akan mencapai garis akhir yang kamu dambakan.",
+        "whisper": "Kendalikan kedua kutub emosimu, maka semesta tak punya pilihan selain membukakan jalan."
+      },
+      "reversed": {
+        "keywords": [
+          "Hilang Kendali",
+          "Agresi Buta",
+          "Kekalahan Arah",
+          "Roda Macet"
+        ],
+        "overview": "Kuda-kuda takdir berlari berlawanan arah; kereta terguncang hebat akibat keegonan atau keputusasaan.",
+        "past": "Tindakan terburu-buru atau amarah tak terkontrol pernah membuat keretamu tergelincir dari jalur.",
+        "present": "Kamu merasa ditarik ke dua arah berbeda. Berhentilah sejenak sebelum kamu menabrak dinding kehancuran.",
+        "future": "Jika kamu memaksakan kehendak dengan kekerasan dan amarah, kekalahan pahit yang akan menyambutmu.",
+        "whisper": "Laju yang terlampau cepat tanpa kemudi hanya akan mengantarkanmu ke tebing kehancuran."
+      }
+    },
+    {
+      "id": "major_08",
+      "name_en": "Strength",
+      "name_id": "Strength (Kelembutan Penakluk Singa)",
+      "image": "08-Strength.png",
+      "arcana": "Major Arcana",
+      "element": "Leo / Keberanian Hati & Kasih",
+      "upright": {
+        "keywords": [
+          "Kekuatan Hati",
+          "Kasih Sayang",
+          "Kesabaran",
+          "Penjinakan Hawa Nafsu"
+        ],
+        "overview": "Tangan lembut yang menutup rahang singa buas tanpa setetes darah. Kekuatan batin sejati mengalahkan kekerasan fisik.",
+        "past": "Ketabahan dan kelembutan hatimu telah berhasil melunakkan badai amarah masa lalu.",
+        "present": "Jangan hadapi kemarahan dengan api. Jinakkan binatang buas di sekitarmu—dan di dalam dirimu—dengan kasih dan ketenangan.",
+        "future": "Kamu akan memenangkan ujian hidup terberat bukan dengan otot, melainkan dengan kemuliaan jiwa yang tenang.",
+        "whisper": "Rahang terkuat sekalipun akan tunduk pada sentuhan kasih yang tulus tanpa rasa gentar."
+      },
+      "reversed": {
+        "keywords": [
+          "Keraguan Diri",
+          "Kelemahan Batin",
+          "Nafsu Liar",
+          "Keputusasaan"
+        ],
+        "overview": "Singa dalam dada memberontak dan mencabik ketenangan, atau rasa percaya diri yang runtuh diterpa badai.",
+        "past": "Ketakutan atau rasa tidak berdaya di masa lalu masih membisikkan kepalsuan bahwa kamu lemah.",
+        "present": "Nafsu mentah atau rasa putus asa sedang menguasaimu. Ingat kembali siapa dirimu yang sesungguhnya.",
+        "future": "Kamu berisiko menjadi mangsa ketakutanmu sendiri jika terus meremehkan kekuatan jiwamu.",
+        "whisper": "Singa itu tidak jahat; ia hanya lapar akan pengakuan dan ketenangan batinmu."
+      }
+    },
+    {
+      "id": "major_09",
+      "name_en": "The Hermit",
+      "name_id": "The Hermit (Sang Pertapa Lentera Kebenaran)",
+      "image": "09-TheHermit.png",
+      "arcana": "Major Arcana",
+      "element": "Virgo / Introspeksi & Sunyi Sakral",
+      "upright": {
+        "keywords": [
+          "Pencarian Batin",
+          "Kesunyian Sakral",
+          "Lentera Penuntun",
+          "Kebijaksanaan"
+        ],
+        "overview": "Berdiri di puncak salju sunyi, mengangkat lentera bintang bersudut enam untuk menerangi jalan para pencari kebenaran.",
+        "past": "Masa penyendirian atau perenungan masa lalu telah mematangkan kedalaman cara pandangmu.",
+        "present": "Tarik dirimu dari kebisingan dunia. Masuklah ke gua batinmu untuk menemukan jawaban yang paling murni.",
+        "future": "Lentera kebijaksanaanmu akan menyala terang, menjadi penuntun bagi langkahmu sendiri dan orang lain.",
+        "whisper": "Kadang kamu harus berjalan sendirian di kegelapan agar matamu mampu melihat cahaya sejati."
+      },
+      "reversed": {
+        "keywords": [
+          "Isolasi Pahit",
+          "Kesepian Merusak",
+          "Penolakan Bantuan",
+          "Ketakutan Menyendiri"
+        ],
+        "overview": "Kesendirian yang berubah menjadi penjara es, atau justru ketakutan histeris untuk menatap cermin diri sendiri.",
+        "past": "Mengurung diri terlalu lama pernah membuatmu terputus dari aliran hangat kehidupan.",
+        "present": "Waspadalah agar tidak menjadi sinis dan menutup pintu hati dari mereka yang tulus ingin membantu.",
+        "future": "Jangan tersesat dalam kebekuan jiwamu; setelah menemukan cahaya di dalam gua, kembalilah membagikannya.",
+        "whisper": "Lentera itu diciptakan untuk menerangi jalan, bukan untuk disembunyikan di balik jubah ketakutan."
+      }
+    },
+    {
+      "id": "major_10",
+      "name_en": "Wheel of Fortune",
+      "name_id": "Wheel of Fortune (Roda Perputaran Takdir)",
+      "image": "10-WheelOfFortune.png",
+      "arcana": "Major Arcana",
+      "element": "Jupiter / Takdir & Siklus Semesta",
+      "upright": {
+        "keywords": [
+          "Perubahan Takdir",
+          "Keberuntungan Kosmik",
+          "Siklus Kehidupan",
+          "Karma Baik"
+        ],
+        "overview": "Roda kosmik berputar tanpa henti. Di atas sfinks, di bawah anubis. Tak ada yang abadi kecuali perubahan itu sendiri.",
+        "past": "Titik balik takdir masa lalu telah membawamu tepat ke tempatmu berpijak saat ini.",
+        "present": "Arus nasib sedang bergeser menguntungkanmu. Buka tanganmu, sambut peluang emas yang dihadirkan semesta.",
+        "future": "Perubahan nasib yang drastis. Roda takdir membawamu naik ke puncak keberuntungan yang tak terduga.",
+        "whisper": "Duduklah di pusat roda yang tenang, bukan di tepiannya yang berputar liar."
+      },
+      "reversed": {
+        "keywords": [
+          "Kemalangan Sementara",
+          "Perlawanan Siklus",
+          "Karma Tertunda",
+          "Hambatan"
+        ],
+        "overview": "Roda takdir terasa berputar ke bawah, atau upaya sia-sia melawan hukum alam dan pergantian musim kehidupan.",
+        "past": "Pergantian nasib yang pahit di masa lalu meninggalkan rasa cemas akan datangnya ketidakpastian.",
+        "present": "Jangan melawan arus saat badai; terimalah bahwa musim surut adalah bagian alami sebelum pasang tiba.",
+        "future": "Hambatan ini bukan akhir jalan, melainkan ujian kesabaran sebelum rodanya kembali bergulir ke atas.",
+        "whisper": "Malam terpekat hanyalah tanda bahwa sang fajar sedang bersiap terbit."
+      }
+    },
+    {
+      "id": "major_11",
+      "name_en": "Justice",
+      "name_id": "Justice (Sang Neraca Keadilan Hakiki)",
+      "image": "11-Justice.png",
+      "arcana": "Major Arcana",
+      "element": "Libra / Kebenaran & Keseimbangan Karma",
+      "upright": {
+        "keywords": [
+          "Kebenaran Mutlak",
+          "Keadilan Karma",
+          "Keseimbangan",
+          "Kejujuran"
+        ],
+        "overview": "Pedang bermata dua tegak lurus, neraca emas seimbang sempurna. Kebenaran tak memihak, menuai apa yang kau tanam.",
+        "past": "Keputusan jujur atau konsekuensi dari tindakan masa lalu kini tiba pada titik penimbangan karma.",
+        "present": "Hadapi situasi ini dengan kejujuran mutlak tanpa dalih. Neraca semesta sedang menimbang niatmu.",
+        "future": "Keputusan adil akan ditegakkan. Kebenaran yang kamu pertahankan akan menjadi perisai kemenanganmu.",
+        "whisper": "Pedang keadilan memotong ilusi tanpa ampun, namun neracanya selalu menimbang dengan kasih yang murni."
+      },
+      "reversed": {
+        "keywords": [
+          "Ketidakadilan",
+          "Kecurangan",
+          "Ketidakjujuran Diri",
+          "Menghindar dari Karma"
+        ],
+        "overview": "Neraca yang dicurangi atau upaya lari dari pertanggungjawaban moral yang cepat atau lambat akan menagih janji.",
+        "past": "Pernah ada ketidakadilan yang kamu derita atau perbuatan curang yang belum kamu tebus.",
+        "present": "Jangan membodohi dirimu sendiri dengan pembenaran palsu. Akui kesalahan sebelum hukum semesta yang menegurnya.",
+        "future": "Kebohongan yang ditutupi akan terbongkar dengan rasa malu jika tidak segera diselesaikan secara jernih.",
+        "whisper": "Kamu bisa bersembunyi dari tatapan manusia, tapi tidak dari mata neraca kosmik."
+      }
+    },
+    {
+      "id": "major_12",
+      "name_en": "The Hanged Man",
+      "name_id": "The Hanged Man (Sang Pengorbanan & Sudut Pandang Baru)",
+      "image": "12-TheHangedMan.png",
+      "arcana": "Major Arcana",
+      "element": "Air / Penyerahan Diri & Pencerahan",
+      "upright": {
+        "keywords": [
+          "Penyerahan Diri",
+          "Sudut Pandang Baru",
+          "Jeda Sakral",
+          "Pencerahan"
+        ],
+        "overview": "Tergantung terbalik di pohon kehidupan dengan halo cahaya di kepalanya. Kedamaian diraih melalui pelepasan kehendak ego.",
+        "past": "Sebuah pengorbanan masa lalu telah membukakan matamu pada hakikat hidup yang lebih dalam.",
+        "present": "Berhentilah memaksakan langkah. Keheningan dan penyerahan diri saat ini adalah kunci pencerahan terbesarmu.",
+        "future": "Dengan melihat dunia dari sudut pandang terbalik, kamu akan menemukan solusi ajaib yang tak terlihat orang lain.",
+        "whisper": "Saat kamu berhenti meronta di jerat takdir, jerat itu justru akan melonggar dengan sendirinya."
+      },
+      "reversed": {
+        "keywords": [
+          "Pengorbanan Sia-sia",
+          "Keras Kepala",
+          "Stagnasi Beracun",
+          "Menolak Melepaskan"
+        ],
+        "overview": "Menggantungkan diri demi drama atau ego; menolak melepaskan hal yang sudah mati karena takut akan perubahan.",
+        "past": "Kamu pernah menahan diri terlalu lama dalam situasi yang tidak membawakan pertumbuhan apapun.",
+        "present": "Keluarlah dari perangkap 'merasa jadi korban'. Tindakan nyata diperlukan, bukan sekadar keluhan sunyi.",
+        "future": "Stagnasi yang berkepanjangan akan merampas waktu berhargamu jika kamu enggan memotong tali kebiasaan buruk.",
+        "whisper": "Pengorbanan yang tidak membawa pertumbuhan jiwa hanyalah penyiksaan diri tanpa makna."
+      }
+    },
+    {
+      "id": "major_13",
+      "name_en": "Death",
+      "name_id": "Death (Sang Transformasi Agung & Kelahiran Kembali)",
+      "image": "13-Death.png",
+      "arcana": "Major Arcana",
+      "element": "Scorpio / Akhir Siklus & Kelahiran Jiwa",
+      "upright": {
+        "keywords": [
+          "Kematian Simbolik",
+          "Transformasi Radikal",
+          "Akhir Siklus",
+          "Kelahiran Kembali"
+        ],
+        "overview": "Ksatria berzirah hitam menunggang kuda putih. Daun gugur agar tunas baru dapat menyapa fajar. Akhir yang suci.",
+        "past": "Sebuah fase penting dalam hidupmu telah berakhir tuntas, meninggalkan ruang kosong yang sakral.",
+        "present": "Biarkan apa yang harus mati, mati dengan anggun. Jangan menahan bangkai masa lalu dalam pelukanmu.",
+        "future": "Kelahiran kembali yang luar biasa menantimu. Dari abu kehancuran, dirimu yang baru akan bangkit bercahaya.",
+        "whisper": "Jangan meratapi terbenamnya matahari; tanpa kegelapan malam, bintang-bintang takkan pernah terlihat."
+      },
+      "reversed": {
+        "keywords": [
+          "Menolak Melepaskan",
+          "Ketakutan Berubah",
+          "Keterikatan Membusuk",
+          "Stagnasi Pahit"
+        ],
+        "overview": "Menggenggam erat mayat masa lalu; menolak keniscayaan perubahan sehingga penderitaan diperpanjang.",
+        "past": "Keenggananmu mengubur kenangan atau kepahitan lama masih menghambat aliran hidupmu hari ini.",
+        "present": "Kamu sedang menahan napas kehidupan karena takut pada perubahan. Lepaskan genggamanmu yang kram itu.",
+        "future": "Semakin keras kamu melawan transformasi, semakin menyakitkan semesta merenggutnya darimu.",
+        "whisper": "Menahan musim gugur tidak akan menghentikan datangnya musim dingin; terimalah siklusnya."
+      }
+    },
+    {
+      "id": "major_14",
+      "name_en": "Temperance",
+      "name_id": "Temperance (Sang Alkemis Penyelaras Harmoni)",
+      "image": "14-Temperance.png",
+      "arcana": "Major Arcana",
+      "element": "Sagittarius / Keseimbangan Jiwa & Alkimia",
+      "upright": {
+        "keywords": [
+          "Penyelarasan",
+          "Kesabaran Emas",
+          "Keseimbangan Alkimia",
+          "Kedamaian Batin"
+        ],
+        "overview": "Malaikat agung menuangkan air sari kehidupan di antara dua bejana tanpa menumpahkan setetes pun. Harmoni dua kutub.",
+        "past": "Kemampuanmu menyeimbangkan emosi dan logika di masa lalu telah menyelamatkanmu dari kehancuran.",
+        "present": "Campurkan unsur-unsur hidupmu dengan kesabaran. Jalan tengah dan moderasi adalah ramuan ajaibmu saat ini.",
+        "future": "Penyembuhan mendalam dan kedamaian sejati akan tercapai. Hidupmu akan mengalir dalam ritme yang harmonis.",
+        "whisper": "Alkimia terhebat terjadi dalam kuali kesabaran yang diaduk perlahan dengan api cinta."
+      },
+      "reversed": {
+        "keywords": [
+          "Ketidakseimbangan",
+          "Ekstremisme",
+          "Konflik Batin",
+          "Ketidaksabaran"
+        ],
+        "overview": "Bejana tertumpah; emosi yang meluap secara berlebihan atau benturan keras antara dua kubu yang menolak damai.",
+        "past": "Gaya hidup atau keputusan yang tidak seimbang di masa lalu menuntut pemulihan kesehatan dan energimu.",
+        "present": "Kamu sedang terombang-ambing di antara dua kutub ekstrem. Kembalilah ke titik hening di tengah dadamu.",
+        "future": "Ketidaksabaranmu akan merusak adonan masa depan jika kamu terburu-buru sebelum waktunya matang.",
+        "whisper": "Air yang mendidih terlalu cepat hanya akan menguap dan meninggalkan kerak gosong."
+      }
+    },
+    {
+      "id": "major_15",
+      "name_en": "The Devil",
+      "name_id": "The Devil (Sang Belenggu Ilusi & Bayang-bayang)",
+      "image": "15-TheDevil.png",
+      "arcana": "Major Arcana",
+      "element": "Capricorn / Bayang Gelap & Keterikatan Materi",
+      "upright": {
+        "keywords": [
+          "Keterikatan Beracun",
+          "Ilusi Belenggu",
+          "Nafsu & Obsesi",
+          "Materi Semu"
+        ],
+        "overview": "Sosok bertanduk di atas altar; dua manusia terbelenggu rantai longgar di leher mereka. Penjara yang diciptakan sendiri.",
+        "past": "Kecanduan, ketakutan materi, atau hubungan beracun di masa lalu telah meninggalkan residu hitam di auramu.",
+        "present": "Sadarilah: rantai yang menjeratmu sesungguhnya longgar. Kamu bisa melepaskannya begitu kamu memutuskan untuk bebas.",
+        "future": "Waspadalah terhadap jeratan emas atau kenikmatan semu yang diam-diam akan memperbudak kemerdekaan jiwamu.",
+        "whisper": "Iblis terkuat bukanlah makhluk di luar sana, melainkan bayang ketakutan dan keserakahan yang kamu beri makan setiap hari."
+      },
+      "reversed": {
+        "keywords": [
+          "Memutus Rantai",
+          "Kebebasan Jiwa",
+          "Kebangkitan dari Bayang",
+          "Pelepasan Obsesi"
+        ],
+        "overview": "Rantai longgar itu akhirnya terlepas! Jiwa yang tersadar dari mimpi buruk keterikatan dan melangkah keluar menuju fajar.",
+        "past": "Kamu telah melewati masa-masa kelam di mana kamu diperbudak oleh ketakutanmu sendiri.",
+        "present": "Momen kebebasan ada di depan matamu. Potong kebiasaan buruk atau ikatan beracun itu sekarang juga.",
+        "future": "Kemerdekaan batin sejati. Kamu tidak lagi dapat dimanipulasi oleh rasa bersalah atau rayuan semu.",
+        "whisper": "Ketika sang jiwa mengingat jati diri ilahiahnya, bayangan terpekat pun akan sirna bagai asap."
+      }
+    },
+    {
+      "id": "major_16",
+      "name_en": "The Tower",
+      "name_id": "The Tower (Sambaran Petir Penghancur Kepalsuan)",
+      "image": "16-TheTower.png",
+      "arcana": "Major Arcana",
+      "element": "Mars / Kehancuran Ilusi & Pembebasan Tiba-tiba",
+      "upright": {
+        "keywords": [
+          "Guncangan Tiba-tiba",
+          "Runtuhnya Ilusi",
+          "Pembebasan Paksa",
+          "Krisis Pembersihan"
+        ],
+        "overview": "Petir ilahi menyambar mahkota menara batu. Fondasi palsu runtuh seketika agar jiwa yang terkurung dapat bebas melayang.",
+        "past": "Kejutan pahit atau keruntuhan rencana masa lalu telah meruntuhkan menara ego yang selama ini memenjarakanmu.",
+        "present": "Jangan pertahankan apa yang sedang diruntuhkan semesta. Bangunan itu memang harus hancur karena fondasinya rapuh.",
+        "future": "Pembersihan total yang mengejutkan namun membebaskan. Kebenaran telanjang akan menggantikan istana ilusi.",
+        "whisper": "Petir tidak menghancurkan rumah sejatimu; ia hanya membakar sangkar emas yang kamu kira surga."
+      },
+      "reversed": {
+        "keywords": [
+          "Menolak Kenyataan",
+          "Menunda Bencana",
+          "Ketakutan Akan Kehancuran",
+          "Krisis Internal"
+        ],
+        "overview": "Menopang tembok yang sudah retak parah; menolak melihat kenyataan bahwa perubahan tak terelakkan.",
+        "past": "Kamu pernah menghindari krisis yang seharusnya menyadarkanmu, sehingga benih masalahnya masih tertanam.",
+        "present": "Jangan menunda pembersihan yang tak terelakkan. Semakin lama kamu bertahan di bawah atap retak, semakin berbahaya.",
+        "future": "Krisis batin yang meremukkan jika kamu terus berpura-pura semuanya baik-baik saja.",
+        "whisper": "Menutup mata saat benteng runtuh tidak akan membuat batu-batunya berhenti berjatuhan."
+      }
+    },
+    {
+      "id": "major_17",
+      "name_en": "The Star",
+      "name_id": "The Star (Sang Bintang Harapan & Air Pemulihan)",
+      "image": "17-TheStar.png",
+      "arcana": "Major Arcana",
+      "element": "Aquarius / Harapan Murni & Inspirasi Kosmik",
+      "upright": {
+        "keywords": [
+          "Harapan Terang",
+          "Penyembuhan Suci",
+          "Inspirasi Jiwa",
+          "Kedamaian Harum"
+        ],
+        "overview": "Gadis telanjang menuangkan air berkat ke bumi dan danau di bawah delapan bintang benderang. Fajar harapan setelah badai menara.",
+        "past": "Setelah melalui masa kelam, seberkas cahaya pemulihan telah menuntunmu melintasi kepedihan.",
+        "present": "Nyalakan kembali keyakinanmu. Semesta sedang mencurahkan air berkat untuk menyembuhkan luka jiwamu.",
+        "future": "Masa depanmu benderang dengan inspirasi, harapan yang terwujud, dan ketenangan jiwa yang tak ternilai.",
+        "whisper": "Bintang tidak bersinar untuk dipuja, melainkan untuk mengingatkanmu bahwa kegelapan selalu punya batas."
+      },
+      "reversed": {
+        "keywords": [
+          "Keputusasaan",
+          "Kehilangan Keyakinan",
+          "Pesimisme Gelap",
+          "Keraguan Masa Depan"
+        ],
+        "overview": "Mata yang tertunduk ke lumpur sehingga luput melihat bintang di langit; keputusasaan yang mengeringkan air pengharapan.",
+        "past": "Kekecewaan masa lalu membuatmu sulit untuk percaya lagi pada keajaiban atau kebaikan masa depan.",
+        "present": "Angkat kepalamu dari kesedihan. Bintangmu masih bersinar di sana, hanya pandanganmu yang tertutup kabut keraguan.",
+        "future": "Pesimisme yang terus dipelihara akan membuatmu melewatkan uluran tangan penyelamat yang sudah dekat.",
+        "whisper": "Bintang itu tidak pernah padam; kamu hanya perlu menyeka air mata dari kelopak matamu."
+      }
+    },
+    {
+      "id": "major_18",
+      "name_en": "The Moon",
+      "name_id": "The Moon (Sang Kabut Ilusi & Alam Bawah Sadar)",
+      "image": "18-TheMoon.png",
+      "arcana": "Major Arcana",
+      "element": "Pisces / Mimpi, Ketakutan Purba & Misteri",
+      "upright": {
+        "keywords": [
+          "Ilusi & Tipu Daya",
+          "Ketakutan Tersembunyi",
+          "Alam Bawah Sadar",
+          "Intuisi Gelap"
+        ],
+        "overview": "Serigala dan anjing melolong ke arah bulan; lobster merayap keluar dari kedalaman air purba. Medan misteri di mana bayang-bayang menipu mata.",
+        "past": "Masa lalumu diwarnai kebingungan atau trauma tersembunyi yang belum sepenuhnya diakui oleh akal sadarmu.",
+        "present": "Hati-hati: keadaan saat ini tidak seperti apa yang terlihat di permukaan. Percayai insting primalmumu, waspadai dusta.",
+        "future": "Kamu harus melintasi lembah kabut ketakutan sebelum fajar kesadaran sejati dapat menyapamu.",
+        "whisper": "Di bawah sinar rembulan, bayangan seekor tikus bisa tampak sebesar monster raksasa."
+      },
+      "reversed": {
+        "keywords": [
+          "Kabut Tersingkap",
+          "Kelegaan dari Ketakutan",
+          "Kebenaran Terbuka",
+          "Melepaskan Kecemasan"
+        ],
+        "overview": "Cahaya fajar mulai menyapu kabut ilusi; monster dalam imajinasi terbukti hanyalah bayangan pohon biasa.",
+        "past": "Kamu mulai melepaskan mimpi buruk dan ilusi yang selama ini menghantui ketenangan tidurmu.",
+        "present": "Kebenaran yang membingungkan mulai menunjukkan wujud aslinya. Kepalsuan orang lain segera terbongkar.",
+        "future": "Kejernihan pikiran akan menggantikan kecemasan yang berlebihan; jalan setapak yang tadinya kabur kini terlihat pasti.",
+        "whisper": "Ketika fajar menyingsing, semua hantu ilusi akan bertekuk lutut dan sirna."
+      }
+    },
+    {
+      "id": "major_19",
+      "name_en": "The Sun",
+      "name_id": "The Sun (Sang Surya Kemuliaan & Sukacita Murni)",
+      "image": "19-TheSun.png",
+      "arcana": "Major Arcana",
+      "element": "Matahari / Kehangatan, Kebenaran & Sukacita",
+      "upright": {
+        "keywords": [
+          "Sukacita Murni",
+          "Keberhasilan Cemerlang",
+          "Vitalitas Hidup",
+          "Kebenaran Benderang"
+        ],
+        "overview": "Matahari raksasa memancarkan kehangatan; anak kecil telanjang menunggang kuda putih dengan bendera merah kemenangan. Puncak kebahagiaan.",
+        "past": "Momen kehangatan atau pencapaian tulus masa lalu menjadi sumber api semangat yang tak pernah padam.",
+        "present": "Matahari menyinari hidupmu! Segala keraguan sirna. Rayakan kemenangan, kesehatan, dan kehangatan hubunganmu.",
+        "future": "Kesuksesan gemilang dan kejelasan mutlak menantimu. Jalan di depan dipenuhi berkah dan tawa ceria.",
+        "whisper": "Biarkan sinarmu menyala tanpa ragu; tidak ada bayangan yang sanggup bertahan di hadapan matahari tengah hari."
+      },
+      "reversed": {
+        "keywords": [
+          "Matahari Tertutup Awan",
+          "Kebahagiaan Tertunda",
+          "Kurang Bersyukur",
+          "Optimisme Palsu"
+        ],
+        "overview": "Sinar surya terhalang awan tipis sementara; berkah besar yang luput disyukuri karena fokus pada setitik noda.",
+        "past": "Kamu pernah mengalami saat-saat di mana kebahagiaanmu terasa berkurang akibat terlalu banyak menuntut kesempurnaan.",
+        "present": "Mataharimu tidak hilang, hanya ada awan sementara. Jangan biarkan hal kecil merenggut senyuman tulusmu.",
+        "future": "Kesuksesan tetap akan datang, namun mungkin memerlukan sedikit lebih banyak waktu dan kesabaran.",
+        "whisper": "Meskipun awan melintas, matahari tidak pernah berhenti memancarkan kehangatannya kepadamu."
+      }
+    },
+    {
+      "id": "major_20",
+      "name_en": "Judgement",
+      "name_id": "Judgement (Sangkakala Panggilan Jiwa & Kebangkitan)",
+      "image": "20-Judgement.png",
+      "arcana": "Major Arcana",
+      "element": "Api / Penebusan & Panggilan Takdir",
+      "upright": {
+        "keywords": [
+          "Kebangkitan Jiwa",
+          "Panggilan Takdir",
+          "Penebusan Dosa",
+          "Transformasi Kesadaran"
+        ],
+        "overview": "Malaikat meniup terompet sangkakala dari awan; jiwa-jiwa bangkit dari peti mati kuburan dengan tangan terentang menyambut hidup baru.",
+        "past": "Sebuah keputusan besar atau momen evaluasi diri di masa lalu telah mengubah arah garis hidupmu secara drastis.",
+        "present": "Dengarkan panggilan jiwamu! Waktunya bangun dari tidur panjang kebiasaan lama. Maafkan masa lalu dan melangkah maju.",
+        "future": "Kelahiran kembali kesadaranmu. Kamu akan dipanggil untuk mengemban misi hidup yang jauh lebih mulia dan sejati.",
+        "whisper": "Tinggalkan kain kafan penyesalanmu di liang lahat; hidup barumu menuntutmu untuk bangkit utuh."
+      },
+      "reversed": {
+        "keywords": [
+          "Menulikan Telinga",
+          "Penghakiman Keras Diri",
+          "Keraguan Panggilan",
+          "Penyesalan Terkunci"
+        ],
+        "overview": "Sangkakala berbunyi namun telinga sengaja ditutup; terperangkap dalam siklus menyalahkan diri sendiri tanpa akhir.",
+        "past": "Penyesalan lama yang belum dimaafkan terus menghantui dan menahan sayap kebebasanmu.",
+        "present": "Berhentilah menghakimi dirimu dengan cambuk rasa bersalah. Panggilan semesta meminta pembebasan, bukan siksaan.",
+        "future": "Jika mengabaikan panggilan hati nuranimu, kamu akan terus merasa hampa di tengah riuh duniawi.",
+        "whisper": "Pintu kuburan telah terbuka lebar; yang membuatmu tetap berada di sana hanyalah ketakutanmu sendiri."
+      }
+    },
+    {
+      "id": "major_21",
+      "name_en": "The World",
+      "name_id": "The World (Sang Lingkaran Kesempurnaan & Mandat Kosmik)",
+      "image": "21-TheWorld.png",
+      "arcana": "Major Arcana",
+      "element": "Saturnus / Kelengkapan & Integrasi Sempurna",
+      "upright": {
+        "keywords": [
+          "Penyelesaian Sempurna",
+          "Pencapaian Puncak",
+          "Harmoni Semesta",
+          "Perjalanan Tuntas"
+        ],
+        "overview": "Sosok penari menari di tengah karangan bunga daun salam laurel, diapit empat penjaga penjuru mata angin. Siklus kosmik telah tuntas.",
+        "past": "Sebuah perjalanan panjang penuh pembelajaran telah berhasil kamu selesaikan dengan martabat luhur.",
+        "present": "Kamu berada di ambang penyelesaian agung. Segala kepingan puzzle takdirmu akhirnya menyatu membentuk gambar utuh.",
+        "future": "Kemenangan sejati dan kelengkapan hidup. Dunia ada di telapak tanganmu, siap menyambut petualangan agung berikutnya.",
+        "whisper": "Tarianmu telah menyentuh detak jantung semesta; rayakan keutuhan jiwamu."
+      },
+      "reversed": {
+        "keywords": [
+          "Penyelesaian Tertunda",
+          "Kepingan Terakhir Hilang",
+          "Ketiadaan Penutupan",
+          "Hambatan Terakhir"
+        ],
+        "overview": "Tinggal satu langkah lagi sebelum garis akhir, namun perhatian teralihkan atau ada urusan lama yang enggan dituntaskan.",
+        "past": "Siklus masa lalu yang belum kamu beri kata 'selesai' masih menyedot sebagian energimu secara diam-diam.",
+        "present": "Selesaikan apa yang sudah kamu mulai. Jangan menyerah atau berbelok ketika gerbang mahkota tinggal selangkah lagi.",
+        "future": "Kamu tidak akan bisa memulai babak baru yang agung sebelum menutup buku bab lama dengan ikhlas dan tuntas.",
+        "whisper": "Lingkaran ini menuntut kelengkapan; jangan biarkan benang terakhir terputus sebelum diikat rapi."
+      }
+    },
+    {
+      "id": "wands_01",
+      "name_en": "Ace of Wands",
+      "name_id": "Ace of Wands (As Tongkat)",
+      "image": "Wands01.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Benih Murni & Peluang Baru",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Percikan api penciptaan; peluang emas yang membakar antusiasme jiwa.",
+        "past": "Akar masalahmu bertumpu pada percikan api penciptaan; peluang emas yang membakar antusiasme jiwa.",
+        "present": "Energi saat ini: Percikan api penciptaan; peluang emas yang membakar antusiasme jiwa.",
+        "future": "Arah takdirmu mengarah pada percikan api penciptaan; peluang emas yang membakar antusiasme jiwa.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Semangat yang layu sebelum berkembang; keraguan memadamkan api potensi.",
+        "past": "Bayangan masa lalumu terikat pada semangat yang layu sebelum berkembang; keraguan memadamkan api potensi.",
+        "present": "Hati-hati terhadap jebakan: Semangat yang layu sebelum berkembang; keraguan memadamkan api potensi.",
+        "future": "Jika tak waspada, kamu berisiko menemui semangat yang layu sebelum berkembang; keraguan memadamkan api potensi.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_02",
+      "name_en": "Two of Wands",
+      "name_id": "Two of Wands (Dua Tongkat)",
+      "image": "Wands02.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Dualitas, Pilihan & Keseimbangan",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Memandang cakrawala dari benteng; merencanakan ekspansi dan penaklukan baru.",
+        "past": "Akar masalahmu bertumpu pada memandang cakrawala dari benteng; merencanakan ekspansi dan penaklukan baru.",
+        "present": "Energi saat ini: Memandang cakrawala dari benteng; merencanakan ekspansi dan penaklukan baru.",
+        "future": "Arah takdirmu mengarah pada memandang cakrawala dari benteng; merencanakan ekspansi dan penaklukan baru.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketakutan meninggalkan dermaga aman; rencana besar yang terjebak dalam angan-angan.",
+        "past": "Bayangan masa lalumu terikat pada ketakutan meninggalkan dermaga aman; rencana besar yang terjebak dalam angan-angan.",
+        "present": "Hati-hati terhadap jebakan: Ketakutan meninggalkan dermaga aman; rencana besar yang terjebak dalam angan-angan.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketakutan meninggalkan dermaga aman; rencana besar yang terjebak dalam angan-angan.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_03",
+      "name_en": "Three of Wands",
+      "name_id": "Three of Wands (Tiga Tongkat)",
+      "image": "Wands03.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Pertumbuhan Awal, Sinergi & Ekspresi",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Kapal-kapal takdirmu mulai berlayar; buah usaha pertama menampakkan hasil di laut luas.",
+        "past": "Akar masalahmu bertumpu pada kapal-kapal takdirmu mulai berlayar; buah usaha pertama menampakkan hasil di laut luas.",
+        "present": "Energi saat ini: Kapal-kapal takdirmu mulai berlayar; buah usaha pertama menampakkan hasil di laut luas.",
+        "future": "Arah takdirmu mengarah pada kapal-kapal takdirmu mulai berlayar; buah usaha pertama menampakkan hasil di laut luas.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Keterlambatan kabar baik; kekecewaan karena harapan belum sesuai waktu yang diinginkan.",
+        "past": "Bayangan masa lalumu terikat pada keterlambatan kabar baik; kekecewaan karena harapan belum sesuai waktu yang diinginkan.",
+        "present": "Hati-hati terhadap jebakan: Keterlambatan kabar baik; kekecewaan karena harapan belum sesuai waktu yang diinginkan.",
+        "future": "Jika tak waspada, kamu berisiko menemui keterlambatan kabar baik; kekecewaan karena harapan belum sesuai waktu yang diinginkan.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_04",
+      "name_en": "Four of Wands",
+      "name_id": "Four of Wands (Empat Tongkat)",
+      "image": "Wands04.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Kestabilan, Pondasi & Perlindungan",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Perayaan di bawah kanopi bunga; pondasi rumah tangga dan komunitas yang harmonis.",
+        "past": "Akar masalahmu bertumpu pada perayaan di bawah kanopi bunga; pondasi rumah tangga dan komunitas yang harmonis.",
+        "present": "Energi saat ini: Perayaan di bawah kanopi bunga; pondasi rumah tangga dan komunitas yang harmonis.",
+        "future": "Arah takdirmu mengarah pada perayaan di bawah kanopi bunga; pondasi rumah tangga dan komunitas yang harmonis.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketegangan kecil dalam perayaan; ketidakmampuan menikmati buah kerja keras bersama.",
+        "past": "Bayangan masa lalumu terikat pada ketegangan kecil dalam perayaan; ketidakmampuan menikmati buah kerja keras bersama.",
+        "present": "Hati-hati terhadap jebakan: Ketegangan kecil dalam perayaan; ketidakmampuan menikmati buah kerja keras bersama.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketegangan kecil dalam perayaan; ketidakmampuan menikmati buah kerja keras bersama.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_05",
+      "name_en": "Five of Wands",
+      "name_id": "Five of Wands (Lima Tongkat)",
+      "image": "Wands05.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Konflik, Ujian & Kehilangan Sementara",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pertarungan tongkat persaingan; benturan ego dan opini di arena pertempuran.",
+        "past": "Akar masalahmu bertumpu pada pertarungan tongkat persaingan; benturan ego dan opini di arena pertempuran.",
+        "present": "Energi saat ini: Pertarungan tongkat persaingan; benturan ego dan opini di arena pertempuran.",
+        "future": "Arah takdirmu mengarah pada pertarungan tongkat persaingan; benturan ego dan opini di arena pertempuran.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kelelahan akibat konflik tanpa akhir; mencari jalan keluar dari permusuhan sia-sia.",
+        "past": "Bayangan masa lalumu terikat pada kelelahan akibat konflik tanpa akhir; mencari jalan keluar dari permusuhan sia-sia.",
+        "present": "Hati-hati terhadap jebakan: Kelelahan akibat konflik tanpa akhir; mencari jalan keluar dari permusuhan sia-sia.",
+        "future": "Jika tak waspada, kamu berisiko menemui kelelahan akibat konflik tanpa akhir; mencari jalan keluar dari permusuhan sia-sia.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_06",
+      "name_en": "Six of Wands",
+      "name_id": "Six of Wands (Enam Tongkat)",
+      "image": "Wands06.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Harmoni Kembali, Nostalgia & Hadiah Takdir",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pawai kemenangan di atas kuda berkalung laurel; pengakuan atas perjuangan gigihmu.",
+        "past": "Akar masalahmu bertumpu pada pawai kemenangan di atas kuda berkalung laurel; pengakuan atas perjuangan gigihmu.",
+        "present": "Energi saat ini: Pawai kemenangan di atas kuda berkalung laurel; pengakuan atas perjuangan gigihmu.",
+        "future": "Arah takdirmu mengarah pada pawai kemenangan di atas kuda berkalung laurel; pengakuan atas perjuangan gigihmu.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kemenangan semu atau ego yang terluka karena pengakuan tak kunjung tiba.",
+        "past": "Bayangan masa lalumu terikat pada kemenangan semu atau ego yang terluka karena pengakuan tak kunjung tiba.",
+        "present": "Hati-hati terhadap jebakan: Kemenangan semu atau ego yang terluka karena pengakuan tak kunjung tiba.",
+        "future": "Jika tak waspada, kamu berisiko menemui kemenangan semu atau ego yang terluka karena pengakuan tak kunjung tiba.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_07",
+      "name_en": "Seven of Wands",
+      "name_id": "Seven of Wands (Tujuh Tongkat)",
+      "image": "Wands07.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Tantangan Batin, Ketekunan & Penilaian Ulang",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Berdiri di atas tebing menangkis enam serangan; keteguhan mempertahankan prinsip suci.",
+        "past": "Akar masalahmu bertumpu pada berdiri di atas tebing menangkis enam serangan; keteguhan mempertahankan prinsip suci.",
+        "present": "Energi saat ini: Berdiri di atas tebing menangkis enam serangan; keteguhan mempertahankan prinsip suci.",
+        "future": "Arah takdirmu mengarah pada berdiri di atas tebing menangkis enam serangan; keteguhan mempertahankan prinsip suci.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kelelahan menangkis kritik; hampir menyerah di bawah tekanan massa yang mengepung.",
+        "past": "Bayangan masa lalumu terikat pada kelelahan menangkis kritik; hampir menyerah di bawah tekanan massa yang mengepung.",
+        "present": "Hati-hati terhadap jebakan: Kelelahan menangkis kritik; hampir menyerah di bawah tekanan massa yang mengepung.",
+        "future": "Jika tak waspada, kamu berisiko menemui kelelahan menangkis kritik; hampir menyerah di bawah tekanan massa yang mengepung.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_08",
+      "name_en": "Eight of Wands",
+      "name_id": "Eight of Wands (Delapan Tongkat)",
+      "image": "Wands08.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Penguasaan Keahlian, Gerak Cepat & Dedikasi",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Delapan tongkat meluncur kilat di udara; peristiwa bergerak cepat tanpa dapat dibendung.",
+        "past": "Akar masalahmu bertumpu pada delapan tongkat meluncur kilat di udara; peristiwa bergerak cepat tanpa dapat dibendung.",
+        "present": "Energi saat ini: Delapan tongkat meluncur kilat di udara; peristiwa bergerak cepat tanpa dapat dibendung.",
+        "future": "Arah takdirmu mengarah pada delapan tongkat meluncur kilat di udara; peristiwa bergerak cepat tanpa dapat dibendung.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Hambatan mendadak; pesan yang tertunda atau tindakan terburu-buru yang menabrak karang.",
+        "past": "Bayangan masa lalumu terikat pada hambatan mendadak; pesan yang tertunda atau tindakan terburu-buru yang menabrak karang.",
+        "present": "Hati-hati terhadap jebakan: Hambatan mendadak; pesan yang tertunda atau tindakan terburu-buru yang menabrak karang.",
+        "future": "Jika tak waspada, kamu berisiko menemui hambatan mendadak; pesan yang tertunda atau tindakan terburu-buru yang menabrak karang.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_09",
+      "name_en": "Nine of Wands",
+      "name_id": "Nine of Wands (Sembilan Tongkat)",
+      "image": "Wands09.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Puncak Pencapaian, Ketahanan & Kehati-hatian",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Prajurit berperban bersandar pada tongkat; pertahanan terakhir yang takkan runtuh.",
+        "past": "Akar masalahmu bertumpu pada prajurit berperban bersandar pada tongkat; pertahanan terakhir yang takkan runtuh.",
+        "present": "Energi saat ini: Prajurit berperban bersandar pada tongkat; pertahanan terakhir yang takkan runtuh.",
+        "future": "Arah takdirmu mengarah pada prajurit berperban bersandar pada tongkat; pertahanan terakhir yang takkan runtuh.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kecurigaan paranoid yang berlebihan; ketakutan membayangkan musuh yang sebenarnya tak ada.",
+        "past": "Bayangan masa lalumu terikat pada kecurigaan paranoid yang berlebihan; ketakutan membayangkan musuh yang sebenarnya tak ada.",
+        "present": "Hati-hati terhadap jebakan: Kecurigaan paranoid yang berlebihan; ketakutan membayangkan musuh yang sebenarnya tak ada.",
+        "future": "Jika tak waspada, kamu berisiko menemui kecurigaan paranoid yang berlebihan; ketakutan membayangkan musuh yang sebenarnya tak ada.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_10",
+      "name_en": "Ten of Wands",
+      "name_id": "Ten of Wands (Sepuluh Tongkat)",
+      "image": "Wands10.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Akhir Siklus, Kepenuhan & Beban Tanggung Jawab",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Memikul sepuluh tongkat menuju gerbang kota; beban tanggung jawab yang membungkukkan punggung.",
+        "past": "Akar masalahmu bertumpu pada memikul sepuluh tongkat menuju gerbang kota; beban tanggung jawab yang membungkukkan punggung.",
+        "present": "Energi saat ini: Memikul sepuluh tongkat menuju gerbang kota; beban tanggung jawab yang membungkukkan punggung.",
+        "future": "Arah takdirmu mengarah pada memikul sepuluh tongkat menuju gerbang kota; beban tanggung jawab yang membungkukkan punggung.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Beban yang meremukkan tulang; saatnya melepaskan kayu-kayu yang bukan kewajibanmu.",
+        "past": "Bayangan masa lalumu terikat pada beban yang meremukkan tulang; saatnya melepaskan kayu-kayu yang bukan kewajibanmu.",
+        "present": "Hati-hati terhadap jebakan: Beban yang meremukkan tulang; saatnya melepaskan kayu-kayu yang bukan kewajibanmu.",
+        "future": "Jika tak waspada, kamu berisiko menemui beban yang meremukkan tulang; saatnya melepaskan kayu-kayu yang bukan kewajibanmu.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_11",
+      "name_en": "Page of Wands",
+      "name_id": "Page of Wands (Prajurit Belia Tongkat)",
+      "image": "Wands11.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Pesan Baru, Rasa Ingin Tahu & Murid Kehidupan",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pengelana muda membawa pesan api; antusiasme segar untuk menjelajahi petualangan baru.",
+        "past": "Akar masalahmu bertumpu pada pengelana muda membawa pesan api; antusiasme segar untuk menjelajahi petualangan baru.",
+        "present": "Energi saat ini: Pengelana muda membawa pesan api; antusiasme segar untuk menjelajahi petualangan baru.",
+        "future": "Arah takdirmu mengarah pada pengelana muda membawa pesan api; antusiasme segar untuk menjelajahi petualangan baru.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Pesan buruk atau kabar burung yang membingungkan; janji manis tanpa kelanjutan nyata.",
+        "past": "Bayangan masa lalumu terikat pada pesan buruk atau kabar burung yang membingungkan; janji manis tanpa kelanjutan nyata.",
+        "present": "Hati-hati terhadap jebakan: Pesan buruk atau kabar burung yang membingungkan; janji manis tanpa kelanjutan nyata.",
+        "future": "Jika tak waspada, kamu berisiko menemui pesan buruk atau kabar burung yang membingungkan; janji manis tanpa kelanjutan nyata.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_12",
+      "name_en": "Knight of Wands",
+      "name_id": "Knight of Wands (Ksatria Tongkat)",
+      "image": "Wands12.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Aksi Berkobar, Pencarian Misi & Pergerakan Nyata",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ksatria memacu kuda menerjang gurun; keberanian membara yang tak sabar menuntaskan misi.",
+        "past": "Akar masalahmu bertumpu pada ksatria memacu kuda menerjang gurun; keberanian membara yang tak sabar menuntaskan misi.",
+        "present": "Energi saat ini: Ksatria memacu kuda menerjang gurun; keberanian membara yang tak sabar menuntaskan misi.",
+        "future": "Arah takdirmu mengarah pada ksatria memacu kuda menerjang gurun; keberanian membara yang tak sabar menuntaskan misi.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kemarahan buta dan ketidaksabaran; tindakan ceroboh yang meninggalkan kerusakan di belakang.",
+        "past": "Bayangan masa lalumu terikat pada kemarahan buta dan ketidaksabaran; tindakan ceroboh yang meninggalkan kerusakan di belakang.",
+        "present": "Hati-hati terhadap jebakan: Kemarahan buta dan ketidaksabaran; tindakan ceroboh yang meninggalkan kerusakan di belakang.",
+        "future": "Jika tak waspada, kamu berisiko menemui kemarahan buta dan ketidaksabaran; tindakan ceroboh yang meninggalkan kerusakan di belakang.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_13",
+      "name_en": "Queen of Wands",
+      "name_id": "Queen of Wands (Ratu Tongkat)",
+      "image": "Wands13.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Penguasaan Batin, Empati & Kekuatan Feminin",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ratu api memegang bunga matahari; karisma hangat, kepercayaan diri, dan keberanian magnetis.",
+        "past": "Akar masalahmu bertumpu pada ratu api memegang bunga matahari; karisma hangat, kepercayaan diri, dan keberanian magnetis.",
+        "present": "Energi saat ini: Ratu api memegang bunga matahari; karisma hangat, kepercayaan diri, dan keberanian magnetis.",
+        "future": "Arah takdirmu mengarah pada ratu api memegang bunga matahari; karisma hangat, kepercayaan diri, dan keberanian magnetis.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kecemburuan membakar; manipulasi emosi dan amarah yang menuntut perhatian berlebih.",
+        "past": "Bayangan masa lalumu terikat pada kecemburuan membakar; manipulasi emosi dan amarah yang menuntut perhatian berlebih.",
+        "present": "Hati-hati terhadap jebakan: Kecemburuan membakar; manipulasi emosi dan amarah yang menuntut perhatian berlebih.",
+        "future": "Jika tak waspada, kamu berisiko menemui kecemburuan membakar; manipulasi emosi dan amarah yang menuntut perhatian berlebih.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "wands_14",
+      "name_en": "King of Wands",
+      "name_id": "King of Wands (Raja Tongkat)",
+      "image": "Wands14.png",
+      "arcana": "Minor Arcana",
+      "element": "Api / Hasrat, Kreativitas & Aksi Nyata",
+      "upright": {
+        "keywords": [
+          "Otoritas Puncak, Kepemimpinan Luhur & Kebijaksanaan",
+          "Tongkat Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Raja duduk di tahta salamander; visi kepemimpinan agung yang menginspirasi dunia.",
+        "past": "Akar masalahmu bertumpu pada raja duduk di tahta salamander; visi kepemimpinan agung yang menginspirasi dunia.",
+        "present": "Energi saat ini: Raja duduk di tahta salamander; visi kepemimpinan agung yang menginspirasi dunia.",
+        "future": "Arah takdirmu mengarah pada raja duduk di tahta salamander; visi kepemimpinan agung yang menginspirasi dunia.",
+        "whisper": "Hormati elemen tongkat dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Tongkat",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Tiran egois yang menuntut kepatuhan mutlak tanpa mempedulikan luka para pengikutnya.",
+        "past": "Bayangan masa lalumu terikat pada tiran egois yang menuntut kepatuhan mutlak tanpa mempedulikan luka para pengikutnya.",
+        "present": "Hati-hati terhadap jebakan: Tiran egois yang menuntut kepatuhan mutlak tanpa mempedulikan luka para pengikutnya.",
+        "future": "Jika tak waspada, kamu berisiko menemui tiran egois yang menuntut kepatuhan mutlak tanpa mempedulikan luka para pengikutnya.",
+        "whisper": "Jangan biarkan bayangan elemen tongkat membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_01",
+      "name_en": "Ace of Cups",
+      "name_id": "Ace of Cups (As Cawan)",
+      "image": "Cups01.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Benih Murni & Peluang Baru",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Cawan suci meluap dengan lima aliran kasih; berkat cinta dan penyembuhan murni dari surga.",
+        "past": "Akar masalahmu bertumpu pada cawan suci meluap dengan lima aliran kasih; berkat cinta dan penyembuhan murni dari surga.",
+        "present": "Energi saat ini: Cawan suci meluap dengan lima aliran kasih; berkat cinta dan penyembuhan murni dari surga.",
+        "future": "Arah takdirmu mengarah pada cawan suci meluap dengan lima aliran kasih; berkat cinta dan penyembuhan murni dari surga.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Cawan tertumpah; sumur emosi yang kering atau cinta yang terhalang oleh rasa sakit lama.",
+        "past": "Bayangan masa lalumu terikat pada cawan tertumpah; sumur emosi yang kering atau cinta yang terhalang oleh rasa sakit lama.",
+        "present": "Hati-hati terhadap jebakan: Cawan tertumpah; sumur emosi yang kering atau cinta yang terhalang oleh rasa sakit lama.",
+        "future": "Jika tak waspada, kamu berisiko menemui cawan tertumpah; sumur emosi yang kering atau cinta yang terhalang oleh rasa sakit lama.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_02",
+      "name_en": "Two of Cups",
+      "name_id": "Two of Cups (Dua Cawan)",
+      "image": "Cups02.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Dualitas, Pilihan & Keseimbangan",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pertukaran dua cawan di bawah lambang Caduceus; penyatuan dua jiwa dalam keselarasan cinta.",
+        "past": "Akar masalahmu bertumpu pada pertukaran dua cawan di bawah lambang caduceus; penyatuan dua jiwa dalam keselarasan cinta.",
+        "present": "Energi saat ini: Pertukaran dua cawan di bawah lambang Caduceus; penyatuan dua jiwa dalam keselarasan cinta.",
+        "future": "Arah takdirmu mengarah pada pertukaran dua cawan di bawah lambang caduceus; penyatuan dua jiwa dalam keselarasan cinta.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Koneksi retak; kesalahpahaman atau hilangnya rasa percaya dalam ikatan yang semula indah.",
+        "past": "Bayangan masa lalumu terikat pada koneksi retak; kesalahpahaman atau hilangnya rasa percaya dalam ikatan yang semula indah.",
+        "present": "Hati-hati terhadap jebakan: Koneksi retak; kesalahpahaman atau hilangnya rasa percaya dalam ikatan yang semula indah.",
+        "future": "Jika tak waspada, kamu berisiko menemui koneksi retak; kesalahpahaman atau hilangnya rasa percaya dalam ikatan yang semula indah.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_03",
+      "name_en": "Three of Cups",
+      "name_id": "Three of Cups (Tiga Cawan)",
+      "image": "Cups03.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Pertumbuhan Awal, Sinergi & Ekspresi",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Tiga dara berdansa mengangkat cawan anggur; sukacita persaudaraan dan perayaan kebersamaan.",
+        "past": "Akar masalahmu bertumpu pada tiga dara berdansa mengangkat cawan anggur; sukacita persaudaraan dan perayaan kebersamaan.",
+        "present": "Energi saat ini: Tiga dara berdansa mengangkat cawan anggur; sukacita persaudaraan dan perayaan kebersamaan.",
+        "future": "Arah takdirmu mengarah pada tiga dara berdansa mengangkat cawan anggur; sukacita persaudaraan dan perayaan kebersamaan.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Gosip beracun di balik senyuman; pesta berlebihan yang menyisakan kekosongan hati.",
+        "past": "Bayangan masa lalumu terikat pada gosip beracun di balik senyuman; pesta berlebihan yang menyisakan kekosongan hati.",
+        "present": "Hati-hati terhadap jebakan: Gosip beracun di balik senyuman; pesta berlebihan yang menyisakan kekosongan hati.",
+        "future": "Jika tak waspada, kamu berisiko menemui gosip beracun di balik senyuman; pesta berlebihan yang menyisakan kekosongan hati.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_04",
+      "name_en": "Four of Cups",
+      "name_id": "Four of Cups (Empat Cawan)",
+      "image": "Cups04.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Kestabilan, Pondasi & Perlindungan",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Duduk bersedekap di bawah pohon merajuk; mengabaikan cawan emas yang diulurkan tangan gaib.",
+        "past": "Akar masalahmu bertumpu pada duduk bersedekap di bawah pohon merajuk; mengabaikan cawan emas yang diulurkan tangan gaib.",
+        "present": "Energi saat ini: Duduk bersedekap di bawah pohon merajuk; mengabaikan cawan emas yang diulurkan tangan gaib.",
+        "future": "Arah takdirmu mengarah pada duduk bersedekap di bawah pohon merajuk; mengabaikan cawan emas yang diulurkan tangan gaib.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Tersadar dari lamunan apatis; membuka mata kembali pada keindahan hidup di sekelilingmu.",
+        "past": "Bayangan masa lalumu terikat pada tersadar dari lamunan apatis; membuka mata kembali pada keindahan hidup di sekelilingmu.",
+        "present": "Hati-hati terhadap jebakan: Tersadar dari lamunan apatis; membuka mata kembali pada keindahan hidup di sekelilingmu.",
+        "future": "Jika tak waspada, kamu berisiko menemui tersadar dari lamunan apatis; membuka mata kembali pada keindahan hidup di sekelilingmu.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_05",
+      "name_en": "Five of Cups",
+      "name_id": "Five of Cups (Lima Cawan)",
+      "image": "Cups05.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Konflik, Ujian & Kehilangan Sementara",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Jubah hitam meratapi tiga cawan tumpah; lupa menoleh pada dua cawan utuh di belakangnya.",
+        "past": "Akar masalahmu bertumpu pada jubah hitam meratapi tiga cawan tumpah; lupa menoleh pada dua cawan utuh di belakangnya.",
+        "present": "Energi saat ini: Jubah hitam meratapi tiga cawan tumpah; lupa menoleh pada dua cawan utuh di belakangnya.",
+        "future": "Arah takdirmu mengarah pada jubah hitam meratapi tiga cawan tumpah; lupa menoleh pada dua cawan utuh di belakangnya.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Menyeka air mata duka; mulai menoleh dan menyadari masih ada harapan yang tersisa.",
+        "past": "Bayangan masa lalumu terikat pada menyeka air mata duka; mulai menoleh dan menyadari masih ada harapan yang tersisa.",
+        "present": "Hati-hati terhadap jebakan: Menyeka air mata duka; mulai menoleh dan menyadari masih ada harapan yang tersisa.",
+        "future": "Jika tak waspada, kamu berisiko menemui menyeka air mata duka; mulai menoleh dan menyadari masih ada harapan yang tersisa.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_06",
+      "name_en": "Six of Cups",
+      "name_id": "Six of Cups (Enam Cawan)",
+      "image": "Cups06.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Harmoni Kembali, Nostalgia & Hadiah Takdir",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Anak kecil menyerahkan cawan berisi bunga putih; kenangan manis masa lalu dan kepolosan hati.",
+        "past": "Akar masalahmu bertumpu pada anak kecil menyerahkan cawan berisi bunga putih; kenangan manis masa lalu dan kepolosan hati.",
+        "present": "Energi saat ini: Anak kecil menyerahkan cawan berisi bunga putih; kenangan manis masa lalu dan kepolosan hati.",
+        "future": "Arah takdirmu mengarah pada anak kecil menyerahkan cawan berisi bunga putih; kenangan manis masa lalu dan kepolosan hati.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Terjebak dalam museum masa lalu; meratapi masa lalu hingga enggan hidup di masa kini.",
+        "past": "Bayangan masa lalumu terikat pada terjebak dalam museum masa lalu; meratapi masa lalu hingga enggan hidup di masa kini.",
+        "present": "Hati-hati terhadap jebakan: Terjebak dalam museum masa lalu; meratapi masa lalu hingga enggan hidup di masa kini.",
+        "future": "Jika tak waspada, kamu berisiko menemui terjebak dalam museum masa lalu; meratapi masa lalu hingga enggan hidup di masa kini.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_07",
+      "name_en": "Seven of Cups",
+      "name_id": "Seven of Cups (Tujuh Cawan)",
+      "image": "Cups07.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Tantangan Batin, Ketekunan & Penilaian Ulang",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Tujuh cawan mengambang di awan berisi permata, naga, dan kastil; godaan ilusi dan angan-angan.",
+        "past": "Akar masalahmu bertumpu pada tujuh cawan mengambang di awan berisi permata, naga, dan kastil; godaan ilusi dan angan-angan.",
+        "present": "Energi saat ini: Tujuh cawan mengambang di awan berisi permata, naga, dan kastil; godaan ilusi dan angan-angan.",
+        "future": "Arah takdirmu mengarah pada tujuh cawan mengambang di awan berisi permata, naga, dan kastil; godaan ilusi dan angan-angan.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kabut ilusi tersibak; memilih satu jalan nyata dari sekian banyak mimpi yang menyesatkan.",
+        "past": "Bayangan masa lalumu terikat pada kabut ilusi tersibak; memilih satu jalan nyata dari sekian banyak mimpi yang menyesatkan.",
+        "present": "Hati-hati terhadap jebakan: Kabut ilusi tersibak; memilih satu jalan nyata dari sekian banyak mimpi yang menyesatkan.",
+        "future": "Jika tak waspada, kamu berisiko menemui kabut ilusi tersibak; memilih satu jalan nyata dari sekian banyak mimpi yang menyesatkan.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_08",
+      "name_en": "Eight of Cups",
+      "name_id": "Eight of Cups (Delapan Cawan)",
+      "image": "Cups08.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Penguasaan Keahlian, Gerak Cepat & Dedikasi",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok melangkah pergi membelakangi delapan cawan emas di malam hari; meninggalkan masa lalu demi mencari jiwa sejati.",
+        "past": "Akar masalahmu bertumpu pada sosok melangkah pergi membelakangi delapan cawan emas di malam hari; meninggalkan masa lalu demi mencari jiwa sejati.",
+        "present": "Energi saat ini: Sosok melangkah pergi membelakangi delapan cawan emas di malam hari; meninggalkan masa lalu demi mencari jiwa sejati.",
+        "future": "Arah takdirmu mengarah pada sosok melangkah pergi membelakangi delapan cawan emas di malam hari; meninggalkan masa lalu demi mencari jiwa sejati.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketakutan melangkah pergi dari situasi beracun; bertahan dalam kenyamanan semu yang membusuk.",
+        "past": "Bayangan masa lalumu terikat pada ketakutan melangkah pergi dari situasi beracun; bertahan dalam kenyamanan semu yang membusuk.",
+        "present": "Hati-hati terhadap jebakan: Ketakutan melangkah pergi dari situasi beracun; bertahan dalam kenyamanan semu yang membusuk.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketakutan melangkah pergi dari situasi beracun; bertahan dalam kenyamanan semu yang membusuk.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_09",
+      "name_en": "Nine of Cups",
+      "name_id": "Nine of Cups (Sembilan Cawan)",
+      "image": "Cups09.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Puncak Pencapaian, Ketahanan & Kehati-hatian",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Duduk tersenyum puas di depan sembilan cawan anggur; kepuasan batin, impian terkabul, dan kemakmuran.",
+        "past": "Akar masalahmu bertumpu pada duduk tersenyum puas di depan sembilan cawan anggur; kepuasan batin, impian terkabul, dan kemakmuran.",
+        "present": "Energi saat ini: Duduk tersenyum puas di depan sembilan cawan anggur; kepuasan batin, impian terkabul, dan kemakmuran.",
+        "future": "Arah takdirmu mengarah pada duduk tersenyum puas di depan sembilan cawan anggur; kepuasan batin, impian terkabul, dan kemakmuran.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kepuasan diri yang sombong; merasa kenyang secara materi namun jiwa tetap merasa dahaga.",
+        "past": "Bayangan masa lalumu terikat pada kepuasan diri yang sombong; merasa kenyang secara materi namun jiwa tetap merasa dahaga.",
+        "present": "Hati-hati terhadap jebakan: Kepuasan diri yang sombong; merasa kenyang secara materi namun jiwa tetap merasa dahaga.",
+        "future": "Jika tak waspada, kamu berisiko menemui kepuasan diri yang sombong; merasa kenyang secara materi namun jiwa tetap merasa dahaga.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_10",
+      "name_en": "Ten of Cups",
+      "name_id": "Ten of Cups (Sepuluh Cawan)",
+      "image": "Cups10.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Akhir Siklus, Kepenuhan & Beban Tanggung Jawab",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pelangi sepuluh cawan menaungi keluarga bahagia; kebahagiaan sejati dalam harmoni rumah tangga.",
+        "past": "Akar masalahmu bertumpu pada pelangi sepuluh cawan menaungi keluarga bahagia; kebahagiaan sejati dalam harmoni rumah tangga.",
+        "present": "Energi saat ini: Pelangi sepuluh cawan menaungi keluarga bahagia; kebahagiaan sejati dalam harmoni rumah tangga.",
+        "future": "Arah takdirmu mengarah pada pelangi sepuluh cawan menaungi keluarga bahagia; kebahagiaan sejati dalam harmoni rumah tangga.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Pertengkaran keluarga di balik pintu tertutup; ilusi kesempurnaan yang mulai retak.",
+        "past": "Bayangan masa lalumu terikat pada pertengkaran keluarga di balik pintu tertutup; ilusi kesempurnaan yang mulai retak.",
+        "present": "Hati-hati terhadap jebakan: Pertengkaran keluarga di balik pintu tertutup; ilusi kesempurnaan yang mulai retak.",
+        "future": "Jika tak waspada, kamu berisiko menemui pertengkaran keluarga di balik pintu tertutup; ilusi kesempurnaan yang mulai retak.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_11",
+      "name_en": "Page of Cups",
+      "name_id": "Page of Cups (Prajurit Belia Cawan)",
+      "image": "Cups11.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Pesan Baru, Rasa Ingin Tahu & Murid Kehidupan",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Prajurit muda memegang cawan berisi ikan ajaib; intuisi puitis dan pesan cinta yang lembut.",
+        "past": "Akar masalahmu bertumpu pada prajurit muda memegang cawan berisi ikan ajaib; intuisi puitis dan pesan cinta yang lembut.",
+        "present": "Energi saat ini: Prajurit muda memegang cawan berisi ikan ajaib; intuisi puitis dan pesan cinta yang lembut.",
+        "future": "Arah takdirmu mengarah pada prajurit muda memegang cawan berisi ikan ajaib; intuisi puitis dan pesan cinta yang lembut.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketidakstabilan emosi; rayuan gombal atau fantasi kekanak-kanakan yang menolak kedewasaan.",
+        "past": "Bayangan masa lalumu terikat pada ketidakstabilan emosi; rayuan gombal atau fantasi kekanak-kanakan yang menolak kedewasaan.",
+        "present": "Hati-hati terhadap jebakan: Ketidakstabilan emosi; rayuan gombal atau fantasi kekanak-kanakan yang menolak kedewasaan.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketidakstabilan emosi; rayuan gombal atau fantasi kekanak-kanakan yang menolak kedewasaan.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_12",
+      "name_en": "Knight of Cups",
+      "name_id": "Knight of Cups (Ksatria Cawan)",
+      "image": "Cups12.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Aksi Berkobar, Pencarian Misi & Pergerakan Nyata",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ksatria berkuda putih menyeberangi sungai tenang; sang penyair pembawa cawan cinta tulus.",
+        "past": "Akar masalahmu bertumpu pada ksatria berkuda putih menyeberangi sungai tenang; sang penyair pembawa cawan cinta tulus.",
+        "present": "Energi saat ini: Ksatria berkuda putih menyeberangi sungai tenang; sang penyair pembawa cawan cinta tulus.",
+        "future": "Arah takdirmu mengarah pada ksatria berkuda putih menyeberangi sungai tenang; sang penyair pembawa cawan cinta tulus.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Janji palsu pemikat hati; kabur dari kenyataan saat dituntut komitmen nyata.",
+        "past": "Bayangan masa lalumu terikat pada janji palsu pemikat hati; kabur dari kenyataan saat dituntut komitmen nyata.",
+        "present": "Hati-hati terhadap jebakan: Janji palsu pemikat hati; kabur dari kenyataan saat dituntut komitmen nyata.",
+        "future": "Jika tak waspada, kamu berisiko menemui janji palsu pemikat hati; kabur dari kenyataan saat dituntut komitmen nyata.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_13",
+      "name_en": "Queen of Cups",
+      "name_id": "Queen of Cups (Ratu Cawan)",
+      "image": "Cups13.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Penguasaan Batin, Empati & Kekuatan Feminin",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ratu laut menatap cawan berukir bidadari; lautan intuisi, empati tanpa batas, dan kasih penyembuh.",
+        "past": "Akar masalahmu bertumpu pada ratu laut menatap cawan berukir bidadari; lautan intuisi, empati tanpa batas, dan kasih penyembuh.",
+        "present": "Energi saat ini: Ratu laut menatap cawan berukir bidadari; lautan intuisi, empati tanpa batas, dan kasih penyembuh.",
+        "future": "Arah takdirmu mengarah pada ratu laut menatap cawan berukir bidadari; lautan intuisi, empati tanpa batas, dan kasih penyembuh.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Hanyut dalam gelombang emosi tak menentu; terlalu sensitif dan mudah terluka oleh hal sepele.",
+        "past": "Bayangan masa lalumu terikat pada hanyut dalam gelombang emosi tak menentu; terlalu sensitif dan mudah terluka oleh hal sepele.",
+        "present": "Hati-hati terhadap jebakan: Hanyut dalam gelombang emosi tak menentu; terlalu sensitif dan mudah terluka oleh hal sepele.",
+        "future": "Jika tak waspada, kamu berisiko menemui hanyut dalam gelombang emosi tak menentu; terlalu sensitif dan mudah terluka oleh hal sepele.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "cups_14",
+      "name_en": "King of Cups",
+      "name_id": "King of Cups (Raja Cawan)",
+      "image": "Cups14.png",
+      "arcana": "Minor Arcana",
+      "element": "Air / Emosi, Cinta & Hubungan Jiwa",
+      "upright": {
+        "keywords": [
+          "Otoritas Puncak, Kepemimpinan Luhur & Kebijaksanaan",
+          "Cawan Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Raja duduk di tahta terapung di tengah ombak liar; ketenangan emosional di tengah badai kehidupan.",
+        "past": "Akar masalahmu bertumpu pada raja duduk di tahta terapung di tengah ombak liar; ketenangan emosional di tengah badai kehidupan.",
+        "present": "Energi saat ini: Raja duduk di tahta terapung di tengah ombak liar; ketenangan emosional di tengah badai kehidupan.",
+        "future": "Arah takdirmu mengarah pada raja duduk di tahta terapung di tengah ombak liar; ketenangan emosional di tengah badai kehidupan.",
+        "whisper": "Hormati elemen cawan dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Cawan",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Manipulator emosi yang dingin; menahan badai dendam di balik topeng ketenangan palsu.",
+        "past": "Bayangan masa lalumu terikat pada manipulator emosi yang dingin; menahan badai dendam di balik topeng ketenangan palsu.",
+        "present": "Hati-hati terhadap jebakan: Manipulator emosi yang dingin; menahan badai dendam di balik topeng ketenangan palsu.",
+        "future": "Jika tak waspada, kamu berisiko menemui manipulator emosi yang dingin; menahan badai dendam di balik topeng ketenangan palsu.",
+        "whisper": "Jangan biarkan bayangan elemen cawan membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_01",
+      "name_en": "Ace of Swords",
+      "name_id": "Ace of Swords (As Pedang)",
+      "image": "Swords01.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Benih Murni & Peluang Baru",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pedang kebenaran tegak menembus mahkota daun palem; kilatan wawasan jernih yang memotong kabut dusta.",
+        "past": "Akar masalahmu bertumpu pada pedang kebenaran tegak menembus mahkota daun palem; kilatan wawasan jernih yang memotong kabut dusta.",
+        "present": "Energi saat ini: Pedang kebenaran tegak menembus mahkota daun palem; kilatan wawasan jernih yang memotong kabut dusta.",
+        "future": "Arah takdirmu mengarah pada pedang kebenaran tegak menembus mahkota daun palem; kilatan wawasan jernih yang memotong kabut dusta.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Pikiran yang diselimuti kekaburan; kebenaran yang digunakan sebagai senjata untuk melukai tanpa ampun.",
+        "past": "Bayangan masa lalumu terikat pada pikiran yang diselimuti kekaburan; kebenaran yang digunakan sebagai senjata untuk melukai tanpa ampun.",
+        "present": "Hati-hati terhadap jebakan: Pikiran yang diselimuti kekaburan; kebenaran yang digunakan sebagai senjata untuk melukai tanpa ampun.",
+        "future": "Jika tak waspada, kamu berisiko menemui pikiran yang diselimuti kekaburan; kebenaran yang digunakan sebagai senjata untuk melukai tanpa ampun.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_02",
+      "name_en": "Two of Swords",
+      "name_id": "Two of Swords (Dua Pedang)",
+      "image": "Swords02.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Dualitas, Pilihan & Keseimbangan",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Wanita berselimut menutup mata memegang dua pedang bersilang; kebuntuan pilihan di bawah bulan sabit.",
+        "past": "Akar masalahmu bertumpu pada wanita berselimut menutup mata memegang dua pedang bersilang; kebuntuan pilihan di bawah bulan sabit.",
+        "present": "Energi saat ini: Wanita berselimut menutup mata memegang dua pedang bersilang; kebuntuan pilihan di bawah bulan sabit.",
+        "future": "Arah takdirmu mengarah pada wanita berselimut menutup mata memegang dua pedang bersilang; kebuntuan pilihan di bawah bulan sabit.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Membuka penutup mata; dipaksa menghadapi kenyataan pahit yang selama ini dihindari.",
+        "past": "Bayangan masa lalumu terikat pada membuka penutup mata; dipaksa menghadapi kenyataan pahit yang selama ini dihindari.",
+        "present": "Hati-hati terhadap jebakan: Membuka penutup mata; dipaksa menghadapi kenyataan pahit yang selama ini dihindari.",
+        "future": "Jika tak waspada, kamu berisiko menemui membuka penutup mata; dipaksa menghadapi kenyataan pahit yang selama ini dihindari.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_03",
+      "name_en": "Three of Swords",
+      "name_id": "Three of Swords (Tiga Pedang)",
+      "image": "Swords03.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Pertumbuhan Awal, Sinergi & Ekspresi",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Tiga pedang menghujam jantung merah di tengah hujan badai; sayatan duka dan patah hati yang tak tertahankan.",
+        "past": "Akar masalahmu bertumpu pada tiga pedang menghujam jantung merah di tengah hujan badai; sayatan duka dan patah hati yang tak tertahankan.",
+        "present": "Energi saat ini: Tiga pedang menghujam jantung merah di tengah hujan badai; sayatan duka dan patah hati yang tak tertahankan.",
+        "future": "Arah takdirmu mengarah pada tiga pedang menghujam jantung merah di tengah hujan badai; sayatan duka dan patah hati yang tak tertahankan.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Penyembuhan luka batin perlahan; melepaskan duri kepedihan yang selama ini bersarang di dada.",
+        "past": "Bayangan masa lalumu terikat pada penyembuhan luka batin perlahan; melepaskan duri kepedihan yang selama ini bersarang di dada.",
+        "present": "Hati-hati terhadap jebakan: Penyembuhan luka batin perlahan; melepaskan duri kepedihan yang selama ini bersarang di dada.",
+        "future": "Jika tak waspada, kamu berisiko menemui penyembuhan luka batin perlahan; melepaskan duri kepedihan yang selama ini bersarang di dada.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_04",
+      "name_en": "Four of Swords",
+      "name_id": "Four of Swords (Empat Pedang)",
+      "image": "Swords04.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Kestabilan, Pondasi & Perlindungan",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ksatria beristirahat di atas makam batu dengan tiga pedang di dinding; jeda suci untuk memulihkan jiwa yang letih.",
+        "past": "Akar masalahmu bertumpu pada ksatria beristirahat di atas makam batu dengan tiga pedang di dinding; jeda suci untuk memulihkan jiwa yang letih.",
+        "present": "Energi saat ini: Ksatria beristirahat di atas makam batu dengan tiga pedang di dinding; jeda suci untuk memulihkan jiwa yang letih.",
+        "future": "Arah takdirmu mengarah pada ksatria beristirahat di atas makam batu dengan tiga pedang di dinding; jeda suci untuk memulihkan jiwa yang letih.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kebangkitan dari masa istirahat; kembali ke arena hidup setelah luka-luka pertempuran kering.",
+        "past": "Bayangan masa lalumu terikat pada kebangkitan dari masa istirahat; kembali ke arena hidup setelah luka-luka pertempuran kering.",
+        "present": "Hati-hati terhadap jebakan: Kebangkitan dari masa istirahat; kembali ke arena hidup setelah luka-luka pertempuran kering.",
+        "future": "Jika tak waspada, kamu berisiko menemui kebangkitan dari masa istirahat; kembali ke arena hidup setelah luka-luka pertempuran kering.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_05",
+      "name_en": "Five of Swords",
+      "name_id": "Five of Swords (Lima Pedang)",
+      "image": "Swords05.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Konflik, Ujian & Kehilangan Sementara",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok tersenyum sinis memungut pedang-pedang musuh yang kalah; kemenangan kotor yang menyisakan kehampaan.",
+        "past": "Akar masalahmu bertumpu pada sosok tersenyum sinis memungut pedang-pedang musuh yang kalah; kemenangan kotor yang menyisakan kehampaan.",
+        "present": "Energi saat ini: Sosok tersenyum sinis memungut pedang-pedang musuh yang kalah; kemenangan kotor yang menyisakan kehampaan.",
+        "future": "Arah takdirmu mengarah pada sosok tersenyum sinis memungut pedang-pedang musuh yang kalah; kemenangan kotor yang menyisakan kehampaan.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Penyesalan atas pertikaian beracun; berdamai dan mengakui bahwa memenangkan argumen bukanlah segalanya.",
+        "past": "Bayangan masa lalumu terikat pada penyesalan atas pertikaian beracun; berdamai dan mengakui bahwa memenangkan argumen bukanlah segalanya.",
+        "present": "Hati-hati terhadap jebakan: Penyesalan atas pertikaian beracun; berdamai dan mengakui bahwa memenangkan argumen bukanlah segalanya.",
+        "future": "Jika tak waspada, kamu berisiko menemui penyesalan atas pertikaian beracun; berdamai dan mengakui bahwa memenangkan argumen bukanlah segalanya.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_06",
+      "name_en": "Six of Swords",
+      "name_id": "Six of Swords (Enam Pedang)",
+      "image": "Swords06.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Harmoni Kembali, Nostalgia & Hadiah Takdir",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Perahu meluncur tenang membawa muatan pedang menuju pulau seberang; melintasi perairan bergolak menuju kedamaian.",
+        "past": "Akar masalahmu bertumpu pada perahu meluncur tenang membawa muatan pedang menuju pulau seberang; melintasi perairan bergolak menuju kedamaian.",
+        "present": "Energi saat ini: Perahu meluncur tenang membawa muatan pedang menuju pulau seberang; melintasi perairan bergolak menuju kedamaian.",
+        "future": "Arah takdirmu mengarah pada perahu meluncur tenang membawa muatan pedang menuju pulau seberang; melintasi perairan bergolak menuju kedamaian.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Perjalanan yang terhambat; beban masa lalu yang enggan diturunkan dari perahu kehidupanmu.",
+        "past": "Bayangan masa lalumu terikat pada perjalanan yang terhambat; beban masa lalu yang enggan diturunkan dari perahu kehidupanmu.",
+        "present": "Hati-hati terhadap jebakan: Perjalanan yang terhambat; beban masa lalu yang enggan diturunkan dari perahu kehidupanmu.",
+        "future": "Jika tak waspada, kamu berisiko menemui perjalanan yang terhambat; beban masa lalu yang enggan diturunkan dari perahu kehidupanmu.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_07",
+      "name_en": "Seven of Swords",
+      "name_id": "Seven of Swords (Tujuh Pedang)",
+      "image": "Swords07.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Tantangan Batin, Ketekunan & Penilaian Ulang",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok mengendap-endap membawa lima pedang dari perkemahan musuh; kecerdikan taktik, rahasia, atau pengkhianatan.",
+        "past": "Akar masalahmu bertumpu pada sosok mengendap-endap membawa lima pedang dari perkemahan musuh; kecerdikan taktik, rahasia, atau pengkhianatan.",
+        "present": "Energi saat ini: Sosok mengendap-endap membawa lima pedang dari perkemahan musuh; kecerdikan taktik, rahasia, atau pengkhianatan.",
+        "future": "Arah takdirmu mengarah pada sosok mengendap-endap membawa lima pedang dari perkemahan musuh; kecerdikan taktik, rahasia, atau pengkhianatan.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kebohongan yang terbongkar; hati nurani yang tak lagi mampu menahan beban kepalsuan.",
+        "past": "Bayangan masa lalumu terikat pada kebohongan yang terbongkar; hati nurani yang tak lagi mampu menahan beban kepalsuan.",
+        "present": "Hati-hati terhadap jebakan: Kebohongan yang terbongkar; hati nurani yang tak lagi mampu menahan beban kepalsuan.",
+        "future": "Jika tak waspada, kamu berisiko menemui kebohongan yang terbongkar; hati nurani yang tak lagi mampu menahan beban kepalsuan.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_08",
+      "name_en": "Eight of Swords",
+      "name_id": "Eight of Swords (Delapan Pedang)",
+      "image": "Swords08.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Penguasaan Keahlian, Gerak Cepat & Dedikasi",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Wanita terikat dikelilingi delapan pedang menancap di lumpur; ilusi ketidakberdayaan yang diciptakan oleh ketakutan pikiran.",
+        "past": "Akar masalahmu bertumpu pada wanita terikat dikelilingi delapan pedang menancap di lumpur; ilusi ketidakberdayaan yang diciptakan oleh ketakutan pikiran.",
+        "present": "Energi saat ini: Wanita terikat dikelilingi delapan pedang menancap di lumpur; ilusi ketidakberdayaan yang diciptakan oleh ketakutan pikiran.",
+        "future": "Arah takdirmu mengarah pada wanita terikat dikelilingi delapan pedang menancap di lumpur; ilusi ketidakberdayaan yang diciptakan oleh ketakutan pikiran.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Menyadari bahwa tali ikatan itu longgar; melangkah keluar dari penjara pikiranmu sendiri.",
+        "past": "Bayangan masa lalumu terikat pada menyadari bahwa tali ikatan itu longgar; melangkah keluar dari penjara pikiranmu sendiri.",
+        "present": "Hati-hati terhadap jebakan: Menyadari bahwa tali ikatan itu longgar; melangkah keluar dari penjara pikiranmu sendiri.",
+        "future": "Jika tak waspada, kamu berisiko menemui menyadari bahwa tali ikatan itu longgar; melangkah keluar dari penjara pikiranmu sendiri.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_09",
+      "name_en": "Nine of Swords",
+      "name_id": "Nine of Swords (Sembilan Pedang)",
+      "image": "Swords09.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Puncak Pencapaian, Ketahanan & Kehati-hatian",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok terbangun di tempat tidur memegangi wajah dalam gelap; mimpi buruk, rasa bersalah, dan kecemasan malam yang menyiksa.",
+        "past": "Akar masalahmu bertumpu pada sosok terbangun di tempat tidur memegangi wajah dalam gelap; mimpi buruk, rasa bersalah, dan kecemasan malam yang menyiksa.",
+        "present": "Energi saat ini: Sosok terbangun di tempat tidur memegangi wajah dalam gelap; mimpi buruk, rasa bersalah, dan kecemasan malam yang menyiksa.",
+        "future": "Arah takdirmu mengarah pada sosok terbangun di tempat tidur memegangi wajah dalam gelap; mimpi buruk, rasa bersalah, dan kecemasan malam yang menyiksa.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Melihat cahaya fajar; menyadari bahwa ketakutan terbesarmu hanyalah momok bayangan malam.",
+        "past": "Bayangan masa lalumu terikat pada melihat cahaya fajar; menyadari bahwa ketakutan terbesarmu hanyalah momok bayangan malam.",
+        "present": "Hati-hati terhadap jebakan: Melihat cahaya fajar; menyadari bahwa ketakutan terbesarmu hanyalah momok bayangan malam.",
+        "future": "Jika tak waspada, kamu berisiko menemui melihat cahaya fajar; menyadari bahwa ketakutan terbesarmu hanyalah momok bayangan malam.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_10",
+      "name_en": "Ten of Swords",
+      "name_id": "Ten of Swords (Sepuluh Pedang)",
+      "image": "Swords10.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Akhir Siklus, Kepenuhan & Beban Tanggung Jawab",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok terbaring tertusuk sepuluh pedang di tepi pantai saat fajar menyingsing; titik nadir penderitaan, kepedihan terburuk telah usai.",
+        "past": "Akar masalahmu bertumpu pada sosok terbaring tertusuk sepuluh pedang di tepi pantai saat fajar menyingsing; titik nadir penderitaan, kepedihan terburuk telah usai.",
+        "present": "Energi saat ini: Sosok terbaring tertusuk sepuluh pedang di tepi pantai saat fajar menyingsing; titik nadir penderitaan, kepedihan terburuk telah usai.",
+        "future": "Arah takdirmu mengarah pada sosok terbaring tertusuk sepuluh pedang di tepi pantai saat fajar menyingsing; titik nadir penderitaan, kepedihan terburuk telah usai.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Fajar kebangkitan setelah kehancuran total; tidak ada lagi yang bisa menyakitimu karena hal terburuk telah berlalu.",
+        "past": "Bayangan masa lalumu terikat pada fajar kebangkitan setelah kehancuran total; tidak ada lagi yang bisa menyakitimu karena hal terburuk telah berlalu.",
+        "present": "Hati-hati terhadap jebakan: Fajar kebangkitan setelah kehancuran total; tidak ada lagi yang bisa menyakitimu karena hal terburuk telah berlalu.",
+        "future": "Jika tak waspada, kamu berisiko menemui fajar kebangkitan setelah kehancuran total; tidak ada lagi yang bisa menyakitimu karena hal terburuk telah berlalu.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_11",
+      "name_en": "Page of Swords",
+      "name_id": "Page of Swords (Prajurit Belia Pedang)",
+      "image": "Swords11.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Pesan Baru, Rasa Ingin Tahu & Murid Kehidupan",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pemuda memegang pedang tegak di tengah angin kencang; ketajaman pikiran, kewaspadaan, dan kejujuran tanpa kompromi.",
+        "past": "Akar masalahmu bertumpu pada pemuda memegang pedang tegak di tengah angin kencang; ketajaman pikiran, kewaspadaan, dan kejujuran tanpa kompromi.",
+        "present": "Energi saat ini: Pemuda memegang pedang tegak di tengah angin kencang; ketajaman pikiran, kewaspadaan, dan kejujuran tanpa kompromi.",
+        "future": "Arah takdirmu mengarah pada pemuda memegang pedang tegak di tengah angin kencang; ketajaman pikiran, kewaspadaan, dan kejujuran tanpa kompromi.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kritik pedas yang menyakitkan; mencampuri urusan orang lain dengan prasangka buruk dan lidah berbisa.",
+        "past": "Bayangan masa lalumu terikat pada kritik pedas yang menyakitkan; mencampuri urusan orang lain dengan prasangka buruk dan lidah berbisa.",
+        "present": "Hati-hati terhadap jebakan: Kritik pedas yang menyakitkan; mencampuri urusan orang lain dengan prasangka buruk dan lidah berbisa.",
+        "future": "Jika tak waspada, kamu berisiko menemui kritik pedas yang menyakitkan; mencampuri urusan orang lain dengan prasangka buruk dan lidah berbisa.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_12",
+      "name_en": "Knight of Swords",
+      "name_id": "Knight of Swords (Ksatria Pedang)",
+      "image": "Swords12.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Aksi Berkobar, Pencarian Misi & Pergerakan Nyata",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ksatria memacu kuda menerjang badai dengan pedang terhunus; keberanian intelektual yang menerjang tanpa ragu.",
+        "past": "Akar masalahmu bertumpu pada ksatria memacu kuda menerjang badai dengan pedang terhunus; keberanian intelektual yang menerjang tanpa ragu.",
+        "present": "Energi saat ini: Ksatria memacu kuda menerjang badai dengan pedang terhunus; keberanian intelektual yang menerjang tanpa ragu.",
+        "future": "Arah takdirmu mengarah pada ksatria memacu kuda menerjang badai dengan pedang terhunus; keberanian intelektual yang menerjang tanpa ragu.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kecerobohan berpikir; memaksakan pendapat dengan amarah dan memicu permusuhan tak perlu.",
+        "past": "Bayangan masa lalumu terikat pada kecerobohan berpikir; memaksakan pendapat dengan amarah dan memicu permusuhan tak perlu.",
+        "present": "Hati-hati terhadap jebakan: Kecerobohan berpikir; memaksakan pendapat dengan amarah dan memicu permusuhan tak perlu.",
+        "future": "Jika tak waspada, kamu berisiko menemui kecerobohan berpikir; memaksakan pendapat dengan amarah dan memicu permusuhan tak perlu.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_13",
+      "name_en": "Queen of Swords",
+      "name_id": "Queen of Swords (Ratu Pedang)",
+      "image": "Swords13.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Penguasaan Batin, Empati & Kekuatan Feminin",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ratu bermahkota duduk di tahta tinggi menatap lurus; kejernihan logika, ketajaman firasat, dan ketegasan tanpa belas kasihan palsu.",
+        "past": "Akar masalahmu bertumpu pada ratu bermahkota duduk di tahta tinggi menatap lurus; kejernihan logika, ketajaman firasat, dan ketegasan tanpa belas kasihan palsu.",
+        "present": "Energi saat ini: Ratu bermahkota duduk di tahta tinggi menatap lurus; kejernihan logika, ketajaman firasat, dan ketegasan tanpa belas kasihan palsu.",
+        "future": "Arah takdirmu mengarah pada ratu bermahkota duduk di tahta tinggi menatap lurus; kejernihan logika, ketajaman firasat, dan ketegasan tanpa belas kasihan palsu.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kedinginan hati yang membekukan; kepahitan dendam masa lalu yang membuatmu menjadi sinis dan kejam.",
+        "past": "Bayangan masa lalumu terikat pada kedinginan hati yang membekukan; kepahitan dendam masa lalu yang membuatmu menjadi sinis dan kejam.",
+        "present": "Hati-hati terhadap jebakan: Kedinginan hati yang membekukan; kepahitan dendam masa lalu yang membuatmu menjadi sinis dan kejam.",
+        "future": "Jika tak waspada, kamu berisiko menemui kedinginan hati yang membekukan; kepahitan dendam masa lalu yang membuatmu menjadi sinis dan kejam.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "swords_14",
+      "name_en": "King of Swords",
+      "name_id": "King of Swords (Raja Pedang)",
+      "image": "Swords14.png",
+      "arcana": "Minor Arcana",
+      "element": "Udara / Akal, Kebenaran, Konflik & Ujian Pikiran",
+      "upright": {
+        "keywords": [
+          "Otoritas Puncak, Kepemimpinan Luhur & Kebijaksanaan",
+          "Pedang Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Raja bertakhta memegang pedang keadilan; kekuasaan hukum, integritas intelektual, dan keteguhan nalar tertinggi.",
+        "past": "Akar masalahmu bertumpu pada raja bertakhta memegang pedang keadilan; kekuasaan hukum, integritas intelektual, dan keteguhan nalar tertinggi.",
+        "present": "Energi saat ini: Raja bertakhta memegang pedang keadilan; kekuasaan hukum, integritas intelektual, dan keteguhan nalar tertinggi.",
+        "future": "Arah takdirmu mengarah pada raja bertakhta memegang pedang keadilan; kekuasaan hukum, integritas intelektual, dan keteguhan nalar tertinggi.",
+        "whisper": "Hormati elemen pedang dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Pedang",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Penyalahgunaan hukum dan kekuasaan akal; tiran kejam yang menghakimi orang lain tanpa setetes pun belas kasih.",
+        "past": "Bayangan masa lalumu terikat pada penyalahgunaan hukum dan kekuasaan akal; tiran kejam yang menghakimi orang lain tanpa setetes pun belas kasih.",
+        "present": "Hati-hati terhadap jebakan: Penyalahgunaan hukum dan kekuasaan akal; tiran kejam yang menghakimi orang lain tanpa setetes pun belas kasih.",
+        "future": "Jika tak waspada, kamu berisiko menemui penyalahgunaan hukum dan kekuasaan akal; tiran kejam yang menghakimi orang lain tanpa setetes pun belas kasih.",
+        "whisper": "Jangan biarkan bayangan elemen pedang membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_01",
+      "name_en": "Ace of Pentacles",
+      "name_id": "Ace of Pentacles (As Koin)",
+      "image": "Pentacles01.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Benih Murni & Peluang Baru",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Tangan ilahi dari awan mempersembahkan koin emas di atas taman berbunga; benih kemakmuran dan kekayaan nyata.",
+        "past": "Akar masalahmu bertumpu pada tangan ilahi dari awan mempersembahkan koin emas di atas taman berbunga; benih kemakmuran dan kekayaan nyata.",
+        "present": "Energi saat ini: Tangan ilahi dari awan mempersembahkan koin emas di atas taman berbunga; benih kemakmuran dan kekayaan nyata.",
+        "future": "Arah takdirmu mengarah pada tangan ilahi dari awan mempersembahkan koin emas di atas taman berbunga; benih kemakmuran dan kekayaan nyata.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Peluang rezeki yang terlewatkan; keserakahan atau investasi bodoh yang berakar pada ketamakan.",
+        "past": "Bayangan masa lalumu terikat pada peluang rezeki yang terlewatkan; keserakahan atau investasi bodoh yang berakar pada ketamakan.",
+        "present": "Hati-hati terhadap jebakan: Peluang rezeki yang terlewatkan; keserakahan atau investasi bodoh yang berakar pada ketamakan.",
+        "future": "Jika tak waspada, kamu berisiko menemui peluang rezeki yang terlewatkan; keserakahan atau investasi bodoh yang berakar pada ketamakan.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_02",
+      "name_en": "Two of Pentacles",
+      "name_id": "Two of Pentacles (Dua Koin)",
+      "image": "Pentacles02.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Dualitas, Pilihan & Keseimbangan",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok menari memutar dua koin emas dalam lingkaran pita keabadian; kelihaian menyeimbangkan arus rezeki dan waktu.",
+        "past": "Akar masalahmu bertumpu pada sosok menari memutar dua koin emas dalam lingkaran pita keabadian; kelihaian menyeimbangkan arus rezeki dan waktu.",
+        "present": "Energi saat ini: Sosok menari memutar dua koin emas dalam lingkaran pita keabadian; kelihaian menyeimbangkan arus rezeki dan waktu.",
+        "future": "Arah takdirmu mengarah pada sosok menari memutar dua koin emas dalam lingkaran pita keabadian; kelihaian menyeimbangkan arus rezeki dan waktu.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketidakseimbangan finansial; terombang-ambing kelelahan karena memaksakan terlalu banyak beban sekaligus.",
+        "past": "Bayangan masa lalumu terikat pada ketidakseimbangan finansial; terombang-ambing kelelahan karena memaksakan terlalu banyak beban sekaligus.",
+        "present": "Hati-hati terhadap jebakan: Ketidakseimbangan finansial; terombang-ambing kelelahan karena memaksakan terlalu banyak beban sekaligus.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketidakseimbangan finansial; terombang-ambing kelelahan karena memaksakan terlalu banyak beban sekaligus.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_03",
+      "name_en": "Three of Pentacles",
+      "name_id": "Three of Pentacles (Tiga Koin)",
+      "image": "Pentacles03.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Pertumbuhan Awal, Sinergi & Ekspresi",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pematung batu bekerja di dalam katedral megah disaksikan biarawan; karya kolaborasi agung dan pengakuan atas keahlian.",
+        "past": "Akar masalahmu bertumpu pada pematung batu bekerja di dalam katedral megah disaksikan biarawan; karya kolaborasi agung dan pengakuan atas keahlian.",
+        "present": "Energi saat ini: Pematung batu bekerja di dalam katedral megah disaksikan biarawan; karya kolaborasi agung dan pengakuan atas keahlian.",
+        "future": "Arah takdirmu mengarah pada pematung batu bekerja di dalam katedral megah disaksikan biarawan; karya kolaborasi agung dan pengakuan atas keahlian.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kurangnya kerja sama tim; hasil kerja yang asal-asalan karena mengabaikan mutu dan disiplin.",
+        "past": "Bayangan masa lalumu terikat pada kurangnya kerja sama tim; hasil kerja yang asal-asalan karena mengabaikan mutu dan disiplin.",
+        "present": "Hati-hati terhadap jebakan: Kurangnya kerja sama tim; hasil kerja yang asal-asalan karena mengabaikan mutu dan disiplin.",
+        "future": "Jika tak waspada, kamu berisiko menemui kurangnya kerja sama tim; hasil kerja yang asal-asalan karena mengabaikan mutu dan disiplin.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_04",
+      "name_en": "Four of Pentacles",
+      "name_id": "Four of Pentacles (Empat Koin)",
+      "image": "Pentacles04.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Kestabilan, Pondasi & Perlindungan",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Sosok duduk memeluk erat koin emas di dada, kepala, dan kakinya; mempertahankan harta dengan ketakutan kikir.",
+        "past": "Akar masalahmu bertumpu pada sosok duduk memeluk erat koin emas di dada, kepala, dan kakinya; mempertahankan harta dengan ketakutan kikir.",
+        "present": "Energi saat ini: Sosok duduk memeluk erat koin emas di dada, kepala, dan kakinya; mempertahankan harta dengan ketakutan kikir.",
+        "future": "Arah takdirmu mengarah pada sosok duduk memeluk erat koin emas di dada, kepala, dan kakinya; mempertahankan harta dengan ketakutan kikir.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Membuka genggaman yang kaku; menyadari bahwa menimbun harta tidak akan membeli ketenangan jiwa.",
+        "past": "Bayangan masa lalumu terikat pada membuka genggaman yang kaku; menyadari bahwa menimbun harta tidak akan membeli ketenangan jiwa.",
+        "present": "Hati-hati terhadap jebakan: Membuka genggaman yang kaku; menyadari bahwa menimbun harta tidak akan membeli ketenangan jiwa.",
+        "future": "Jika tak waspada, kamu berisiko menemui membuka genggaman yang kaku; menyadari bahwa menimbun harta tidak akan membeli ketenangan jiwa.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_05",
+      "name_en": "Five of Pentacles",
+      "name_id": "Five of Pentacles (Lima Koin)",
+      "image": "Pentacles05.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Konflik, Ujian & Kehilangan Sementara",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Dua pengemis terlantar berjalan pincang di tengah salju melewati jendela gereja yang hangat; rasa miskin dan terkucilkan.",
+        "past": "Akar masalahmu bertumpu pada dua pengemis terlantar berjalan pincang di tengah salju melewati jendela gereja yang hangat; rasa miskin dan terkucilkan.",
+        "present": "Energi saat ini: Dua pengemis terlantar berjalan pincang di tengah salju melewati jendela gereja yang hangat; rasa miskin dan terkucilkan.",
+        "future": "Arah takdirmu mengarah pada dua pengemis terlantar berjalan pincang di tengah salju melewati jendela gereja yang hangat; rasa miskin dan terkucilkan.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Melihat pintu pertolongan yang terbuka; pemulihan dari masa-masa sulit kemiskinan dan kesendirian.",
+        "past": "Bayangan masa lalumu terikat pada melihat pintu pertolongan yang terbuka; pemulihan dari masa-masa sulit kemiskinan dan kesendirian.",
+        "present": "Hati-hati terhadap jebakan: Melihat pintu pertolongan yang terbuka; pemulihan dari masa-masa sulit kemiskinan dan kesendirian.",
+        "future": "Jika tak waspada, kamu berisiko menemui melihat pintu pertolongan yang terbuka; pemulihan dari masa-masa sulit kemiskinan dan kesendirian.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_06",
+      "name_en": "Six of Pentacles",
+      "name_id": "Six of Pentacles (Enam Koin)",
+      "image": "Pentacles06.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Harmoni Kembali, Nostalgia & Hadiah Takdir",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Saudagar dermawan menimbang koin di neraca dan membagikannya pada yang papa; kemurahan hati dan keadilan rezeki.",
+        "past": "Akar masalahmu bertumpu pada saudagar dermawan menimbang koin di neraca dan membagikannya pada yang papa; kemurahan hati dan keadilan rezeki.",
+        "present": "Energi saat ini: Saudagar dermawan menimbang koin di neraca dan membagikannya pada yang papa; kemurahan hati dan keadilan rezeki.",
+        "future": "Arah takdirmu mengarah pada saudagar dermawan menimbang koin di neraca dan membagikannya pada yang papa; kemurahan hati dan keadilan rezeki.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kedermawanan beracun dengan pamrih tersembunyi; ketimpangan relasi kuasa yang merendahkan pihak lain.",
+        "past": "Bayangan masa lalumu terikat pada kedermawanan beracun dengan pamrih tersembunyi; ketimpangan relasi kuasa yang merendahkan pihak lain.",
+        "present": "Hati-hati terhadap jebakan: Kedermawanan beracun dengan pamrih tersembunyi; ketimpangan relasi kuasa yang merendahkan pihak lain.",
+        "future": "Jika tak waspada, kamu berisiko menemui kedermawanan beracun dengan pamrih tersembunyi; ketimpangan relasi kuasa yang merendahkan pihak lain.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_07",
+      "name_en": "Seven of Pentacles",
+      "name_id": "Seven of Pentacles (Tujuh Koin)",
+      "image": "Pentacles07.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Tantangan Batin, Ketekunan & Penilaian Ulang",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Petani bersandar pada cangkul menatap tujuh koin emas di tanamannya; kesabaran menanti panen dan evaluasi hasil kerja.",
+        "past": "Akar masalahmu bertumpu pada petani bersandar pada cangkul menatap tujuh koin emas di tanamannya; kesabaran menanti panen dan evaluasi hasil kerja.",
+        "present": "Energi saat ini: Petani bersandar pada cangkul menatap tujuh koin emas di tanamannya; kesabaran menanti panen dan evaluasi hasil kerja.",
+        "future": "Arah takdirmu mengarah pada petani bersandar pada cangkul menatap tujuh koin emas di tanamannya; kesabaran menanti panen dan evaluasi hasil kerja.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketidaksabaran menuai sebelum waktu; rasa frustrasi karena merasa usaha kerasmu sia-sia.",
+        "past": "Bayangan masa lalumu terikat pada ketidaksabaran menuai sebelum waktu; rasa frustrasi karena merasa usaha kerasmu sia-sia.",
+        "present": "Hati-hati terhadap jebakan: Ketidaksabaran menuai sebelum waktu; rasa frustrasi karena merasa usaha kerasmu sia-sia.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketidaksabaran menuai sebelum waktu; rasa frustrasi karena merasa usaha kerasmu sia-sia.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_08",
+      "name_en": "Eight of Pentacles",
+      "name_id": "Eight of Pentacles (Delapan Koin)",
+      "image": "Pentacles08.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Penguasaan Keahlian, Gerak Cepat & Dedikasi",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pengrajin tekun memahat delapan koin emas satu per satu; dedikasi murni pada keahlian, ketelitian, dan karya master.",
+        "past": "Akar masalahmu bertumpu pada pengrajin tekun memahat delapan koin emas satu per satu; dedikasi murni pada keahlian, ketelitian, dan karya master.",
+        "present": "Energi saat ini: Pengrajin tekun memahat delapan koin emas satu per satu; dedikasi murni pada keahlian, ketelitian, dan karya master.",
+        "future": "Arah takdirmu mengarah pada pengrajin tekun memahat delapan koin emas satu per satu; dedikasi murni pada keahlian, ketelitian, dan karya master.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kemalasan atau kejenuhan pada rutinitas; mengambil jalan pintas yang merusak kualitas karya.",
+        "past": "Bayangan masa lalumu terikat pada kemalasan atau kejenuhan pada rutinitas; mengambil jalan pintas yang merusak kualitas karya.",
+        "present": "Hati-hati terhadap jebakan: Kemalasan atau kejenuhan pada rutinitas; mengambil jalan pintas yang merusak kualitas karya.",
+        "future": "Jika tak waspada, kamu berisiko menemui kemalasan atau kejenuhan pada rutinitas; mengambil jalan pintas yang merusak kualitas karya.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_09",
+      "name_en": "Nine of Pentacles",
+      "name_id": "Nine of Pentacles (Sembilan Koin)",
+      "image": "Pentacles09.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Puncak Pencapaian, Ketahanan & Kehati-hatian",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Bangsawan anggun berdiri di kebun anggur dengan burung elang di tangannya; kemandirian finansial, kemewahan, dan rasa aman.",
+        "past": "Akar masalahmu bertumpu pada bangsawan anggun berdiri di kebun anggur dengan burung elang di tangannya; kemandirian finansial, kemewahan, dan rasa aman.",
+        "present": "Energi saat ini: Bangsawan anggun berdiri di kebun anggur dengan burung elang di tangannya; kemandirian finansial, kemewahan, dan rasa aman.",
+        "future": "Arah takdirmu mengarah pada bangsawan anggun berdiri di kebun anggur dengan burung elang di tangannya; kemandirian finansial, kemewahan, dan rasa aman.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Ketergantungan materi yang rapuh; kesepian di tengah istana megah yang dibangun tanpa cinta sejati.",
+        "past": "Bayangan masa lalumu terikat pada ketergantungan materi yang rapuh; kesepian di tengah istana megah yang dibangun tanpa cinta sejati.",
+        "present": "Hati-hati terhadap jebakan: Ketergantungan materi yang rapuh; kesepian di tengah istana megah yang dibangun tanpa cinta sejati.",
+        "future": "Jika tak waspada, kamu berisiko menemui ketergantungan materi yang rapuh; kesepian di tengah istana megah yang dibangun tanpa cinta sejati.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_10",
+      "name_en": "Ten of Pentacles",
+      "name_id": "Ten of Pentacles (Sepuluh Koin)",
+      "image": "Pentacles10.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Akhir Siklus, Kepenuhan & Beban Tanggung Jawab",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Tiga generasi berkumpul di gerbang istana bersama anjing peliharaan di bawah sepuluh koin; warisan leluhur dan kemakmuran abadi.",
+        "past": "Akar masalahmu bertumpu pada tiga generasi berkumpul di gerbang istana bersama anjing peliharaan di bawah sepuluh koin; warisan leluhur dan kemakmuran abadi.",
+        "present": "Energi saat ini: Tiga generasi berkumpul di gerbang istana bersama anjing peliharaan di bawah sepuluh koin; warisan leluhur dan kemakmuran abadi.",
+        "future": "Arah takdirmu mengarah pada tiga generasi berkumpul di gerbang istana bersama anjing peliharaan di bawah sepuluh koin; warisan leluhur dan kemakmuran abadi.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Perselisihan warisan; keruntuhan reputasi keluarga akibat keserakahan dan rahasia kotor.",
+        "past": "Bayangan masa lalumu terikat pada perselisihan warisan; keruntuhan reputasi keluarga akibat keserakahan dan rahasia kotor.",
+        "present": "Hati-hati terhadap jebakan: Perselisihan warisan; keruntuhan reputasi keluarga akibat keserakahan dan rahasia kotor.",
+        "future": "Jika tak waspada, kamu berisiko menemui perselisihan warisan; keruntuhan reputasi keluarga akibat keserakahan dan rahasia kotor.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_11",
+      "name_en": "Page of Pentacles",
+      "name_id": "Page of Pentacles (Prajurit Belia Koin)",
+      "image": "Pentacles11.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Pesan Baru, Rasa Ingin Tahu & Murid Kehidupan",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Pemuda menatap kagum pada koin emas di tangannya di tengah padang rumput; kesiapan belajar, etos kerja, dan peluang karir baru.",
+        "past": "Akar masalahmu bertumpu pada pemuda menatap kagum pada koin emas di tangannya di tengah padang rumput; kesiapan belajar, etos kerja, dan peluang karir baru.",
+        "present": "Energi saat ini: Pemuda menatap kagum pada koin emas di tangannya di tengah padang rumput; kesiapan belajar, etos kerja, dan peluang karir baru.",
+        "future": "Arah takdirmu mengarah pada pemuda menatap kagum pada koin emas di tangannya di tengah padang rumput; kesiapan belajar, etos kerja, dan peluang karir baru.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kemalasan dan ketiadaan ambisi; menunda-nunda tugas penting demi kesenangan jangka pendek.",
+        "past": "Bayangan masa lalumu terikat pada kemalasan dan ketiadaan ambisi; menunda-nunda tugas penting demi kesenangan jangka pendek.",
+        "present": "Hati-hati terhadap jebakan: Kemalasan dan ketiadaan ambisi; menunda-nunda tugas penting demi kesenangan jangka pendek.",
+        "future": "Jika tak waspada, kamu berisiko menemui kemalasan dan ketiadaan ambisi; menunda-nunda tugas penting demi kesenangan jangka pendek.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_12",
+      "name_en": "Knight of Pentacles",
+      "name_id": "Knight of Pentacles (Ksatria Koin)",
+      "image": "Pentacles12.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Aksi Berkobar, Pencarian Misi & Pergerakan Nyata",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ksatria menunggang kuda bajak di ladang gandum; ketekunan tanpa lelah, kehandalan mutlak, dan kerja keras tanpa banyak bicara.",
+        "past": "Akar masalahmu bertumpu pada ksatria menunggang kuda bajak di ladang gandum; ketekunan tanpa lelah, kehandalan mutlak, dan kerja keras tanpa banyak bicara.",
+        "present": "Energi saat ini: Ksatria menunggang kuda bajak di ladang gandum; ketekunan tanpa lelah, kehandalan mutlak, dan kerja keras tanpa banyak bicara.",
+        "future": "Arah takdirmu mengarah pada ksatria menunggang kuda bajak di ladang gandum; ketekunan tanpa lelah, kehandalan mutlak, dan kerja keras tanpa banyak bicara.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kelesuan yang menjemukan; keras kepala dan keengganan beradaptasi dengan perubahan zaman.",
+        "past": "Bayangan masa lalumu terikat pada kelesuan yang menjemukan; keras kepala dan keengganan beradaptasi dengan perubahan zaman.",
+        "present": "Hati-hati terhadap jebakan: Kelesuan yang menjemukan; keras kepala dan keengganan beradaptasi dengan perubahan zaman.",
+        "future": "Jika tak waspada, kamu berisiko menemui kelesuan yang menjemukan; keras kepala dan keengganan beradaptasi dengan perubahan zaman.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_13",
+      "name_en": "Queen of Pentacles",
+      "name_id": "Queen of Pentacles (Ratu Koin)",
+      "image": "Pentacles13.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Penguasaan Batin, Empati & Kekuatan Feminin",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Ratu duduk di tahta berukir buah-buahan memangku koin emas; kehangatan pengasuhan, kemakmuran bumi, dan kepraktisan hidup.",
+        "past": "Akar masalahmu bertumpu pada ratu duduk di tahta berukir buah-buahan memangku koin emas; kehangatan pengasuhan, kemakmuran bumi, dan kepraktisan hidup.",
+        "present": "Energi saat ini: Ratu duduk di tahta berukir buah-buahan memangku koin emas; kehangatan pengasuhan, kemakmuran bumi, dan kepraktisan hidup.",
+        "future": "Arah takdirmu mengarah pada ratu duduk di tahta berukir buah-buahan memangku koin emas; kehangatan pengasuhan, kemakmuran bumi, dan kepraktisan hidup.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Kecemasan finansial yang membutakan; menilai harga diri dan orang lain hanya dari timbangan harta benda.",
+        "past": "Bayangan masa lalumu terikat pada kecemasan finansial yang membutakan; menilai harga diri dan orang lain hanya dari timbangan harta benda.",
+        "present": "Hati-hati terhadap jebakan: Kecemasan finansial yang membutakan; menilai harga diri dan orang lain hanya dari timbangan harta benda.",
+        "future": "Jika tak waspada, kamu berisiko menemui kecemasan finansial yang membutakan; menilai harga diri dan orang lain hanya dari timbangan harta benda.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    },
+    {
+      "id": "pentacles_14",
+      "name_en": "King of Pentacles",
+      "name_id": "King of Pentacles (Raja Koin)",
+      "image": "Pentacles14.png",
+      "arcana": "Minor Arcana",
+      "element": "Tanah / Materi, Karir, Tubuh & Kestabilan Nyata",
+      "upright": {
+        "keywords": [
+          "Otoritas Puncak, Kepemimpinan Luhur & Kebijaksanaan",
+          "Koin Seimbang",
+          "Aliran Harmonis"
+        ],
+        "overview": "Raja kaya raya duduk di tahta bertabur tanaman anggur dan kepala banteng; puncak keberhasilan bisnis, stabilitas mutlak, dan kedermawanan.",
+        "past": "Akar masalahmu bertumpu pada raja kaya raya duduk di tahta bertabur tanaman anggur dan kepala banteng; puncak keberhasilan bisnis, stabilitas mutlak, dan kedermawanan.",
+        "present": "Energi saat ini: Raja kaya raya duduk di tahta bertabur tanaman anggur dan kepala banteng; puncak keberhasilan bisnis, stabilitas mutlak, dan kedermawanan.",
+        "future": "Arah takdirmu mengarah pada raja kaya raya duduk di tahta bertabur tanaman anggur dan kepala banteng; puncak keberhasilan bisnis, stabilitas mutlak, dan kedermawanan.",
+        "whisper": "Hormati elemen koin dalam setiap helaan nafas keputusanmu."
+      },
+      "reversed": {
+        "keywords": [
+          "Hambatan Koin",
+          "Ketidakseimbangan",
+          "Peringatan Bayang"
+        ],
+        "overview": "Keserakahan membabi buta; mengorbankan martabat moral dan keluarga demi mempertahankan tumpukan kekayaan.",
+        "past": "Bayangan masa lalumu terikat pada keserakahan membabi buta; mengorbankan martabat moral dan keluarga demi mempertahankan tumpukan kekayaan.",
+        "present": "Hati-hati terhadap jebakan: Keserakahan membabi buta; mengorbankan martabat moral dan keluarga demi mempertahankan tumpukan kekayaan.",
+        "future": "Jika tak waspada, kamu berisiko menemui keserakahan membabi buta; mengorbankan martabat moral dan keluarga demi mempertahankan tumpukan kekayaan.",
+        "whisper": "Jangan biarkan bayangan elemen koin membutakan mata batinmu."
+      }
+    }
+  ]
+}
